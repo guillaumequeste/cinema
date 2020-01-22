@@ -1,0 +1,30 @@
+.bodyRealisateurs {
+    width: 100%;
+    height: 90vh;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.bodyReal {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.real {
+    width: 260px;
+    height: 400px;
+    background-color: grey;
+    border-radius: 5px;
+    margin: 50px 0 50px 50px;
+}
+
+.imageReal {
+    width: 230px;
+    height: 320px;
+    margin: 5%;
+}
+
+.nomReal {
+    text-align: center;
+}

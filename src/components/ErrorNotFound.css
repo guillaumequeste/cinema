@@ -1,0 +1,13 @@
+.bodyError {
+    min-height: 85vh;
+    display: flex;
+}
+
+.error {
+    margin: auto;
+}
+
+.msgError {
+    color: white;
+    margin: 0;
+}
