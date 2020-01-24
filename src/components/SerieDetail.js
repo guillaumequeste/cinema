@@ -159,6 +159,17 @@ const series = {
         synopsis: "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu'une menace semble planer sur l'île...",
         avis: "Enigmatique."
       },
+      1380: { 
+        titre: "Love, Death + Robots",
+        image: "love_death_robots.jpg",
+        genre: "fantastique, science-fiction, animation",
+        saisons: "1",
+        episodes: "18",
+        realisateur: "Tim Miller, David Fincher",
+        acteurs: "différents studios d'animation",
+        synopsis: "Les épisodes sont produits par différents studios d'animation. Ils durent entre 5 et 17 minutes et nous emportent dans des univers totalement différents avec pour toile de fond de l'amour, la mort et des robots.",
+        avis: "Incroyable."
+      },
       1400: { 
         titre: "Moot-Moot",
         image: "moot_moot.jpg",
