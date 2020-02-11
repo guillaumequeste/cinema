@@ -54,7 +54,7 @@ const series = {
         image: "bojack.jpg",
         genre: "comédie, drame, animation",
         saisons: "6",
-        episodes: "61",
+        episodes: "77",
         realisateur: "Raphael Bob-Waksberg",
         acteurs: "Will Arnett, Aaron Paul, Amy Sedaris",
         synopsis: "CVingt ans après avoir crevé le petit écran dans la sitcom culte Horsin’ Around, l’étalon le plus célèbre des années 1990 a perdu de sa superbe. Alcoolique et déprimé, BoJack vit dans une garçonnière à Hollywood et traîne son amertume dans des pulls bigarrés. Heureusement (ou malheureusement ?), le bourrin peut compter sur des amis parfois un brin encombrants : Diane NGuyen, nègre littéraire chargé d’écrire son autobiographie, Princess Carolyn, tour à tour ex-petite amie et agent attitrée, Todd Chavez, colocataire autoproclamé et même le cabotin Mr. Peanutbutter, rival et héros toujours populaire d’une sitcom analogue. À Los Angeles où humains et animaux de tout poil cohabitent, BoJack essaie tant bien que mal de raviver sa gloire passée.",
@@ -224,6 +224,17 @@ const series = {
         acteurs: "Jerry Seinfeld, Julia Louis-Dreyfus, Michael Richards, Jason Alexander",
         synopsis: "Dans son propre rôle de comique, le bavard Jerry Seinfeld mène une vie qui ne le gâte pas tout le temps, notamment à cause des femmes. Avec son collaborateur malhonnête et son voisin loufoque, Jerry analyse toutes les petites choses du quotidien et les absurdités de la société.",
         avis: "Culte outre-Atlantique."
+      },
+      1865: { 
+        titre: "Sherlock",
+        image: "sherlock.jpg",
+        genre: "aventure, drame, policier",
+        saisons: "4",
+        episodes: "14",
+        realisateur: "Steven Moffat, Mark Gatiss",
+        acteurs: "Benedict Cumberbatch, Martin Freeman, Mark Gatiss, Amanda Abbington, Louise Brealey",
+        synopsis: "Les aventures de Sherlock Holmes et de son acolyte de toujours, le docteur Watson, sont transposées au XXIème siècle...",
+        avis: "Clever"
       },
       1900: { 
         titre: "South Park",
