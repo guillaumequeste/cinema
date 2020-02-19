@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 import ListeFilms from './components/ListeFilms'
 import FilmDetail from './components/FilmDetail'
 import ListeSeries from './components/ListeSeries'
@@ -25,7 +25,8 @@ const Root = () => (
             <Route path='/repliques' component={QuoteMachine}/>
             <Route path='/realisateurs' component={Realisateurs}/>
             <Route path='/contact' component={Contact}/>
-            <Route path="*" component={ErrorNotFound}/>
+            <Route path="/notfound" component={ErrorNotFound}/>
+            <Redirect to='/notfound'/>
         </Switch>
     </Router>
 )
