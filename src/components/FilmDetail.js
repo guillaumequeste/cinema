@@ -166,6 +166,16 @@ const films = {
         avis: "Un thriller psychologique avec la musique de Philippe Rombi."
     },
     1300: { 
+        titre: "Diamants sur canapé",
+        image: "diamants_sur_canape.jpg",
+        genre: "comédie dramatique",
+        annee: "1962",
+        realisateur: 'Blake Edwards',
+        acteurs: "Audrey Hepburn, George Peppard, Patricia Neal",
+        synopsis: "Une croqueuse de diamants cherche à épouser un homme riche alors que son voisin écrivain s'intéresse à elle.",
+        avis: "Breakfast at Tiffany's"
+    },
+    1310: { 
         titre: "Django Unchained",
         image: "django_unchained.jpg",
         genre: "western",
@@ -1325,7 +1335,17 @@ const films = {
         synopsis: "Mickey et Pat travaillent sur un bateau de marchandises et font un voyage mouvementé sur une rivière peu paisible avec Minnie comme unique passager en dehors des animaux de ferme.",
         avis: "Le premier film d'animation où le son est synchronisé avec l'image."
     },
-    11400: { 
+    11600: { 
+        titre: "Vacances romaines",
+        image: "vacances_romaines.jpg",
+        genre: "romance",
+        annee: "1954",
+        realisateur: 'William Wyler',
+        acteurs: "Audrey Hepburn, Gregory Peck, Eddie Albert",
+        synopsis: "Princesse soumise à un étouffant protocole, Ann n'a pas une minute de liberté. En déplacement à Rome, elle fait la rencontre du journaliste Joe Bradley qui la reçoit chez lui sans connaître son statut. Sous le charme du jeune homme, Ann profite enfin d'un moment d'évasion avant que sa condition ne la rattrape.",
+        avis: "Quand l'éphémère devient éternel."
+    },
+    11700: { 
         titre: "Ожидая (En attendant)",
         image: "en_attendant.jpg",
         genre: "animation",

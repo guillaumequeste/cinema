@@ -59,11 +59,11 @@
     "name": "Blanche-Neige et le Chasseur"
 },
 {
-    "id": "1200",
-    "name": "Dans la maison"
+    "id": "1300",
+    "name": "Diamants sur canapé"
 },
 {
-    "id": "1300",
+    "id": "1310",
     "name": "Django Unchained"
 },
 {
@@ -527,7 +527,11 @@
     "name": "Steamboat Willie"
 },
 {
-    "id": "11400",
+    "id": "11600",
+    "name": "Vacances romaines"
+},
+{
+    "id": "11700",
     "name": "Ожидая (En attendant)"
 }
 ]
