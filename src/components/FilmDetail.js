@@ -156,6 +156,16 @@ const films = {
         avis: "L'histoire de Blanche-Neige revue par un réalisateur de publicités. Visuellement magnifique."
     },
     1200: { 
+        titre: "Charade",
+        image: "charade.jpg",
+        genre: "policier, romance",
+        annee: "1963",
+        realisateur: 'Stanley Donen',
+        acteurs: "Audrey Hepburn, Cary Grant, Walter Matthau, James Coburn",
+        synopsis: "Aux sports d’hiver, une Américaine tombe amoureuse d’un séduisant célibataire. De retour à Paris, elle apprend le meurtre de son mari et elle va être poursuivie par d’étranges personnages, à la recherche d'un magot caché par la victime et dont elle ignore tout...",
+        avis: "Une comédie policière dans le Paris des années 60."
+    },
+    1300: { 
         titre: "Dans la maison",
         image: "dans_la_maison.jpg",
         genre: "thriller",
@@ -165,7 +175,7 @@ const films = {
         synopsis: "Claude, un élève brillant, doué et manipulateur du lycée Gustave Flaubert, à tendance pervers narcissique, provoque l’enthousiasme de son professeur de français à qui il fait part de ses écrits voyeuristes, qu'il rédige au détriment d'un camarade de classe.",
         avis: "Un thriller psychologique avec la musique de Philippe Rombi."
     },
-    1300: { 
+    1310: { 
         titre: "Diamants sur canapé",
         image: "diamants_sur_canape.jpg",
         genre: "comédie dramatique",
@@ -175,7 +185,7 @@ const films = {
         synopsis: "Une croqueuse de diamants cherche à épouser un homme riche alors que son voisin écrivain s'intéresse à elle.",
         avis: "Breakfast at Tiffany's"
     },
-    1310: { 
+    1320: { 
         titre: "Django Unchained",
         image: "django_unchained.jpg",
         genre: "western",
