@@ -1145,6 +1145,16 @@ const films = {
         synopsis: "Richard Sherman, un publiciste, vient de déposer à la gare sa femme et ses enfants. Il prévoit de rester seul pour les vacances d'été dans son appartement new-yorkais. Après sept ans de mariage, il fantasme allègrement sur les filles qu'il rêve de séduire. Sa solitude va vite être troublée par sa charmante voisine blonde du dessus. Il ne tarde pas à l'inviter chez lui pour prendre un verre.",
         avis: "Un classique."
     },
+    9850: { 
+        titre: "Seule dans la nuit",
+        image: "seule_dans_la_nuit.jpg",
+        genre: "thriller, drame",
+        annee: "1967",
+        realisateur: 'Terence Young',
+        acteurs: "Audrey Hepburn, Alan Arkin, Richard Crenna, Jack Weston",
+        synopsis: "Dans son appartement, une jeune femme aveugle affronte trois trafiquants de drogue à la recherche d'une poupée bourrée d'héroïne, confiée à son mari, le photographe Sam Hendrix, par une femme inconnue à l'aéroport, alors qu'il revient de Montréal. Les gangsters décident de terrifier la jeune femme aveugle afin qu'elle les aide à retrouver la poupée.",
+        avis: "Un huis clos avec Audrey Hepburn jouant le rôle d'une femme aveugle."
+    },
     9900: { 
         titre: "Seven",
         image: "seven.jpg",
