@@ -175,6 +175,16 @@ const films = {
         synopsis: "Claude, un élève brillant, doué et manipulateur du lycée Gustave Flaubert, à tendance pervers narcissique, provoque l’enthousiasme de son professeur de français à qui il fait part de ses écrits voyeuristes, qu'il rédige au détriment d'un camarade de classe.",
         avis: "Un thriller psychologique avec la musique de Philippe Rombi."
     },
+    1305: { 
+        titre: "Deux têtes folles",
+        image: "deux_tetes_folles.jpg",
+        genre: "comédie, romance",
+        annee: "1964",
+        realisateur: 'Richard Quine',
+        acteurs: "Audrey Hepburn, William Holden, Grégoire Aslan, Raymond Bussières",
+        synopsis: "Un producteur hollywoodien a confié à l’auteur renommé Richard Benson la tâche de trouver le sujet d’un film. À Paris, Richard, censé être resté enfermé durant des semaines pour travailler à son scénario, a perdu tout son temps à festoyer en compagnie de son inséparable bouteille. Comme il ne lui reste plus que deux jours pour trouver une histoire, il recrute la secrétaire Gabrielle Simpson pour l'aider. Dans la précipitation, des idées aussi farfelues que décousues fusent des cerveaux en ébullition des deux scribouillards pendant que l’amour fera le reste…",
+        avis: "Une comédie déjantée."
+    },
     1310: { 
         titre: "Diamants sur canapé",
         image: "diamants_sur_canape.jpg",
@@ -544,6 +554,16 @@ const films = {
         acteurs: "Matt Damon, Franka Potente, Brian Cox, Julia Stiles",
         synopsis: "Depuis deux ans, l'ex-agent / tueur à gages de la CIA Jason Bourne et sa compagne Marie ont réussi à tromper leurs poursuivants au prix d'une vigilance sans faille. Ce paisible village de Goa aurait dû être leur dernier refuge. Vain espoir. Deux ans plus tôt, Jason avait juré de se venger de quiconque le relancerait. Il tiendra parole...",
         avis: "Le deuxième épisode de la série consacrée à Jason Bourne."
+    },
+    4450: { 
+        titre: "La rumeur",
+        image: "la_rumeur.jpg",
+        genre: "drame",
+        annee: "1961",
+        realisateur: 'William Wyler',
+        acteurs: "Audrey Hepburn, Shirley MacLaine, James Garner, Miriam Hopkins",
+        synopsis: "Dans une petite ville de province, deux amies Karen Wright et Martha Dobie dirigent une institution pour jeunes filles, aidées par Lily, la tante de Martha, une ancienne actrice excentrique. Fiancée au médecin Joe Cardin, Karen a du mal à s'engager et à laisser à Martha la direction de l'école. Mary, une élève insolente et menteuse, alors qu'elle a été punie, lance la rumeur que les deux professeurs ont une relation \"contre-nature\". Elle commence par le raconter à sa grand-mère...",
+        avis: "Un film choc sur les rumeurs et la tolérance."
     },
     4500: { 
         titre: "La vengeance dans la peau",
