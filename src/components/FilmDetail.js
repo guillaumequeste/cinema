@@ -962,8 +962,18 @@ const films = {
         annee: "1966",
         realisateur: 'Georges Lautner',
         acteurs: "Lino Ventura, Jean Lefebvre, Michel Constantin, Mireille Darc",
-        synopsis: "A Hollywood, durant la nuit, Rita, une jeune femme, devient amnésique suite à un accident de voiture sur la route de Mulholland Drive. Elle fait la rencontre de Betty Elms, une actrice en devenir qui vient juste de débarquer à Los Angeles. Aidée par celle-ci, Rita tente de retrouver la mémoire ainsi que son identité.",
+        synopsis: "Antoine Beretto, ancien gangster, s'est reconverti en tant qu'armateur sur la Côte d'Azur. Un jour, deux anciens complices lui rendent visite. Ceux-ci lui demandent un bateau en direction de l'Italie ainsi qu'un prêt de quatre millions de francs, somme qu'il pourra récupérer auprès de Léonard Michalon. Or ce dernier, en parfait imbécile, s'est attiré les foudres du \"Colonel\", militaire britannique à la tête d'un gang. Antoine et son ami Jeff devront alors, malgré eux, protéger Michalon afin de récupérer l'argent.",
         avis: "Une géniale comédie des années 60."
+    },
+    8030: { 
+        titre: "Nous irons à Monte-Carlo",
+        image: "monte_carlo.jpg",
+        genre: "comédie",
+        annee: "1951",
+        realisateur: 'Jean Boyer',
+        acteurs: "Max Elloy, Henri Génès, Ray Ventura, Jeannette Batti, Audrey Hepburn",
+        synopsis: "L'orchestre du célèbre Ray Ventura est en partance pour Monte-Carlo quand une nourrice arrive chargée d'un nourrisson. Elle le remet à l'un des membres par erreur le prenant pour son grand-père. Le bébé accompagne donc la troupe en tournée et chacun commence à s'attacher à l'enfant pendant que la nourrice, ayant compris sa méprise, part à leur recherche.",
+        avis: "Une comédie où tous les acteurs s'en donnent à coeur joie avec en guest-star Audrey Hepburn."
     },
     8050: { 
         titre: "Once Upon a Time... in Hollywood",
