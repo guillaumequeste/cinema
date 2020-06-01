@@ -206,6 +206,21 @@ const quotes = [{
         replique: "Oh une serpillère, c'est formidable Thérèse !",
         personnage: "Thierry Lhermitte",
         film: "Le Père-Noël est une ordure"
+    },
+    {
+        replique: "C'est à moi que tu parles ?",
+        personnage: "Robert de Niro",
+        film: "Taxi driver"
+    },
+    {
+        replique: "Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ?",
+        personnage: "Arletty",
+        film: "Hôtel du Nord"
+    },
+    {
+        replique: "Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation.",
+        personnage: "Edouard Baer",
+        film: "Astérix et Obélix : Mission Cléopâtre"
     }
 ];
 
