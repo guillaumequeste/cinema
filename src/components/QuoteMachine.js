@@ -221,6 +221,11 @@ const quotes = [{
         replique: "Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation.",
         personnage: "Edouard Baer",
         film: "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+        replique: "Prends ton manteau, on s'en va !",
+        personnage: "Didier Bourdon",
+        film: "Les trois frères"
     }
 ];
 
