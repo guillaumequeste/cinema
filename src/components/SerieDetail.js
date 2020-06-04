@@ -137,7 +137,18 @@ const series = {
         synopsis: "Initiateur de la série, François Busnel raconte lui-même en voix off, avec passion et précision, et en se fondant sur les textes les plus anciens, les destins de Zeus, Thésée, Aphrodite ou Orphée, ces mythes dont la force poétique et la portée universelle ont nourri l’imaginaire des artistes au fil des siècles. À l'image, les chefs-d’œuvre de Botticelli, Picasso, Goya ou Klimt rencontrent des silhouettes animées, inspirées des vases de la Grèce antique : un dispositif inédit pour une exploration captivante de la mythologie grecque et de ses récits originels.",
         avis: "La mythologie grecque. Captivant."
       },
-      1200: { 
+      1200: {
+        titre: "Les cahiers d'Esther",
+        image: "esther.jpg",
+        genre: "animation",
+        saisons: "2",
+        episodes: "85",
+        realisateur: "Canal+",
+        acteurs: "Eléna Plonka",
+        synopsis: "Esther, une fillette de 10 ans, partage son quotidien entre son école, ses amis, sa famille, ses idoles. Ce qu’elle ne dit pas à ses parents, elle le raconte à travers ce journal intime, tour à tour drôle et émouvant, tendre et cruel, un véritable portrait de la jeunesse d’aujourd’hui et un miroir de notre société. Adaptation de la bande dessinée de Riad Sattouf.",
+        avis: "Touchant."
+      },
+      1250: { 
         titre: "Les Simpson",
         image: "les_simpson.jpg",
         genre: "comédie, animation",
@@ -171,6 +182,17 @@ const series = {
         avis: "Incroyable."
       },
       1400: { 
+        titre: "Malcolm",
+        image: "malcolm.jpg",
+        genre: "comédie",
+        saisons: "7",
+        episodes: "151",
+        realisateur: "Linwood Boomer",
+        acteurs: "Frankie Muniz, Bryan Cranston, Jane Kaczmarek, Justin Berfield, Erik Per Sullivan, Christopher Masterson",
+        synopsis: "Petit génie malgré lui, Malcolm vit dans une famille hors du commun. Le jeune surdoué n'hésite pas à se servir de son intelligence pour faire les 400 coups avec ses frères. Et les parents tentent tant bien que mal de canaliser l'énergie de ces petits démons.",
+        avis: "Culte."
+      },
+      1450: { 
         titre: "Moot-Moot",
         image: "moot_moot.jpg",
         genre: "comédie, animation",
@@ -193,6 +215,17 @@ const series = {
         avis: "Sympathique."
       },
       1600: { 
+        titre: "Pitch",
+        image: "pitch.jpg",
+        genre: "comédie",
+        saisons: "2",
+        episodes: "30",
+        realisateur: "Baptiste Lecaplain, FloBer, Xavier Maingon",
+        acteurs: "Baptiste Lecaplain, Jeanne Arènes, Nicolas Marié, David Baiot",
+        synopsis: "Lionel Planche, jeune producteur de film hyperactif et tyrannique, n’a qu’une idée en tête : produire ENFIN son premier long métrage. Épaulé par Chantal, son assistante dévouée, un brin fayote mais toujours de bonne volonté, Lionel va tout faire pour se faire une place dans le milieu du cinéma.",
+        avis: "Déjanté."
+      },
+      1650: { 
         titre: "Platane",
         image: "platane.jpg",
         genre: "comédie",
