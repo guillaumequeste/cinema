@@ -145,6 +145,14 @@ class Realisateurs extends Component {
                         </div>
                         <div className="real">
                             <div>
+                                <img src={require("../img/realisateurs/julien_duvivier.jpg")} className="imageReal" alt="julien_duvivier"/>
+                            </div>
+                            <div className="nomReal">
+                                Julien Duvivier
+                            </div>
+                        </div>
+                        <div className="real">
+                            <div>
                                 <img src={require("../img/realisateurs/luc_besson.jpg")} className="imageReal" alt="luc_besson"/>
                             </div>
                             <div className="nomReal">

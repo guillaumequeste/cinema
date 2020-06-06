@@ -945,6 +945,16 @@ const films = {
         synopsis: "Toute la presse ne parle que de ça : le maniaque tueur d’enfants, qui terrorise la ville depuis quelques temps, vient de faire une nouvelle victime. Chargé de l’enquête, le commissaire Lohmann multiplie les rafles dans les bas-fonds. Gênée par toute cette agitation la pègre décide de retrouver elle-même le criminel : elle charge les mendiants et les clochards de surveiller chaque coin de rue…",
         avis: "Classique."
     },
+    7830: { 
+        titre: "Marie-Octobre",
+        image: "marie_octobre.jpeg",
+        genre: "drame",
+        annee: "1959",
+        realisateur: 'Julien Duvivier',
+        acteurs: "Danielle Darrieux, Paul Meurisse, Bernard Blier, Lino Ventura, Paul Frankeur, Serge Reggiani, Robert Dalban",
+        synopsis: "Durant l'Occupation, un homme a trahi un réseau, provoquant l'éxécution du chef. Un groupe de personnes est réuni pour démasquer le traître.",
+        avis: "Un casting incroyable."
+    },
     7900: { 
         titre: "Mulholland Drive",
         image: "mulholland_drive.jpg",
@@ -1096,6 +1106,16 @@ const films = {
         avis: "Les Robins des Bois."
     },
     9100: { 
+        titre: "Sabrina",
+        image: "sabrina.jpg",
+        genre: "comédie, romance",
+        annee: "1955",
+        realisateur: 'Billy Wilder',
+        acteurs: "Audrey Hepburn, Humphrey Bogart, William Holden, Walter Hampden",
+        synopsis: "Dans une fastueuse résidence de Long Island, la délicieuse fille du chauffeur, Sabrina, est amoureuse de David, un fils de la maison, play boy insouciant qui ne la remarque même pas. La jeune femme part étudier à Paris. Deux ans plus tard, elle revient, transformée, et ne tarde pas à séduire David. Mais les parents de ce dernier ne l’entendent pas de cette oreille et chargent leur autre fils, Linus, un homme d’affaires austère, de détourner la belle de son projet…",
+        avis: "Un classique."
+    },
+    9150: { 
         titre: "Santa & Cie",
         image: "santa.jpg",
         genre: "comédie",
@@ -1295,6 +1315,16 @@ const films = {
         synopsis: "La conclusion de la saga Skywalker. De nouvelles légendes vont naître dans cette bataille épique pour la liberté.",
         avis: "La fin de la nouvelle trilogie."
     },
+    10770: { 
+        titre: "Steamboat Willie",
+        image: "steamboat_willie.jpg",
+        genre: "animation",
+        annee: "1928",
+        realisateur: 'Walt Disney, Ub Iwerks',
+        acteurs: "Chazz Palminteri, Kevin Spacey, Gabriel Byrne, Stephen Baldwin",
+        synopsis: "Mickey et Pat travaillent sur un bateau de marchandises et font un voyage mouvementé sur une rivière peu paisible avec Minnie comme unique passager en dehors des animaux de ferme.",
+        avis: "Le premier film d'animation où le son est synchronisé avec l'image."
+    },
     10800: { 
         titre: "The Dark Knight, le Chevalier Noir",
         image: "the_dark_knight.jpg",
@@ -1374,16 +1404,6 @@ const films = {
         acteurs: "Chazz Palminteri, Kevin Spacey, Gabriel Byrne, Stephen Baldwin",
         synopsis: "Une légende du crime contraint cinq malfrats à aller s'acquitter d'une tâche très périlleuse. Ceux qui survivent pourront se partager un butin de 91 millions de dollars.",
         avis: "Haletant."
-    },
-    11300: { 
-        titre: "Steamboat Willie",
-        image: "steamboat_willie.jpg",
-        genre: "animation",
-        annee: "1928",
-        realisateur: 'Walt Disney, Ub Iwerks',
-        acteurs: "Chazz Palminteri, Kevin Spacey, Gabriel Byrne, Stephen Baldwin",
-        synopsis: "Mickey et Pat travaillent sur un bateau de marchandises et font un voyage mouvementé sur une rivière peu paisible avec Minnie comme unique passager en dehors des animaux de ferme.",
-        avis: "Le premier film d'animation où le son est synchronisé avec l'image."
     },
     11600: { 
         titre: "Vacances romaines",
