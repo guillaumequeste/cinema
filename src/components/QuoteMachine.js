@@ -226,6 +226,21 @@ const quotes = [{
         replique: "Prends ton manteau, on s'en va !",
         personnage: "Didier Bourdon",
         film: "Les trois frères"
+    },
+    {
+        replique: "Il y a des pendules qui marquent 2 heures, il en sonne 4 et il est midi moins le quart. Eh ben ton ami Régis, il est comme ça, il sonne faux.",
+        personnage: "Jean Gabin",
+        film: "Pépé le Moko"
+    },
+    {
+        replique: "Il y a des pendules qui marquent 2 heures, il en sonne 4 et il est midi moins le quart. Eh ben ton ami Régis, il est comme ça, il sonne faux.",
+        personnage: "Jean Gabin",
+        film: "Pépé le Moko"
+    },
+    {
+        replique: "Touche pas au grisbi, salope !",
+        personnage: "Francis Blanche",
+        film: "Les Tontons flingueurs"
     }
 ];
 
