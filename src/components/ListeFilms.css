@@ -1,5 +1,13 @@
-.searchBar {
-    padding-top: 2%;
+.titrePageFilms {
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.searchBarFilm {
+    padding-top: 1%;
     text-align: center;
 }
 

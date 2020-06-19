@@ -10,6 +10,7 @@ import ListeSeries from './components/ListeSeries'
 import SerieDetail from './components/SerieDetail'
 import QuoteMachine from './components/QuoteMachine'
 import Realisateurs from './components/Realisateurs'
+import Compositeurs from './components/Compositeurs'
 import Contact from './components/Contact'
 import ErrorNotFound from './components/ErrorNotFound'
 
@@ -24,6 +25,7 @@ const Root = () => (
             <Route path='/serie/:id' component={SerieDetail}/>
             <Route path='/repliques' component={QuoteMachine}/>
             <Route path='/realisateurs' component={Realisateurs}/>
+            <Route path='/compositeurs' component={Compositeurs}/>
             <Route path='/contact' component={Contact}/>
             <Route path="/notfound" component={ErrorNotFound}/>
             <Redirect to='/notfound'/>

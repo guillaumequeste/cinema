@@ -48,7 +48,8 @@ class ListeSeries extends Component {
                     <meta name="twitter:image" content="http://www.guillaumequeste.fr/img/cinema.png" />
                 </Helmet>
                 <Header />
-                <div className="searchBar">
+                <div className="titrePageSeries">Series</div>
+                <div className="searchBarSerie">
                     <input placeholder="Rechercher une série" onChange={this.onchange} className="inputSearchBar"/>
                 </div>
                 <div className="bodyListeSeries">

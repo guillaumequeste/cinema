@@ -29,6 +29,7 @@ class Realisateurs extends Component {
                     <meta name="twitter:image" content="http://www.guillaumequeste.fr/img/cinema.png" />
                 </Helmet>
                 <Header />
+                <div className="titrePageRealisateurs">Réalisateurs</div>
                 <div className="bodyRealisateurs">
                     <div className="bodyReal">
                         <div className="real">
