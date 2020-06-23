@@ -236,6 +236,11 @@ const quotes = [{
         replique: "Touche pas au grisbi, salope !",
         personnage: "Francis Blanche",
         film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "C'mon, Dover ! Move your bloomin' arse !",
+        personnage: "Audrey Hepburn",
+        film: "My fair lady"
     }
 ];
 
