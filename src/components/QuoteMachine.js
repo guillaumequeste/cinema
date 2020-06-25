@@ -241,6 +241,11 @@ const quotes = [{
         replique: "C'mon, Dover ! Move your bloomin' arse !",
         personnage: "Audrey Hepburn",
         film: "My fair lady"
+    },
+    {
+        replique: "La vie trouve toujours un chemin.",
+        personnage: "Jeff Goldblum",
+        film: "Jurassic Park"
     }
 ];
 
