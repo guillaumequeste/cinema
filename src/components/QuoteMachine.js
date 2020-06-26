@@ -246,6 +246,11 @@ const quotes = [{
         replique: "La vie trouve toujours un chemin.",
         personnage: "Jeff Goldblum",
         film: "Jurassic Park"
+    },
+    {
+        replique: "Jamais je n'aurais cru que ça aurait pu être aussi beau.",
+        personnage: "La Bergère",
+        film: "Le Roi et l'Oiseau"
     }
 ];
 
