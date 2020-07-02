@@ -251,6 +251,11 @@ const quotes = [{
         replique: "Jamais je n'aurais cru que ça aurait pu être aussi beau.",
         personnage: "La Bergère",
         film: "Le Roi et l'Oiseau"
+    },
+    {
+        replique: "Bah, maintenant elle va marcher beaucoup moins bien, forcément !",
+        personnage: "Bourvil",
+        film: "Le corniaud"
     }
 ];
 
