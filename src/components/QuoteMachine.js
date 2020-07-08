@@ -256,6 +256,11 @@ const quotes = [{
         replique: "Bah, maintenant elle va marcher beaucoup moins bien, forcément !",
         personnage: "Bourvil",
         film: "Le corniaud"
+    },
+    {
+        replique: "Non ! N'allez pas dans les hautes herbes",
+        personnage: "Harvey Jason",
+        film: "Le Monde perdu : jurassic Park"
     }
 ];
 
