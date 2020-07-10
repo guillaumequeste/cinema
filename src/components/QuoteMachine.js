@@ -261,6 +261,16 @@ const quotes = [{
         replique: "Non ! N'allez pas dans les hautes herbes",
         personnage: "Harvey Jason",
         film: "Le Monde perdu : jurassic Park"
+    },
+    {
+        replique: "Alerte générale !!!",
+        personnage: "Bernard Farcy",
+        film: "Taxi"
+    },
+    {
+        replique: "Splendide !",
+        personnage: "Jim Carrey",
+        film: "The Mask"
     }
 ];
 
