@@ -271,6 +271,21 @@ const quotes = [{
         replique: "Splendide !",
         personnage: "Jim Carrey",
         film: "The Mask"
+    },
+    {
+        replique: "Wakatépé baboune.",
+        personnage: "Ludwig Briand",
+        film: "Un indien dans la ville"
+    },
+    {
+        replique: "Jésus, mon mari ?",
+        personnage: "Valda Campos",
+        film: "Les Rois Mages"
+    },
+    {
+        replique: "La famille, ça va ? - Ca va, ça va, Imhotep.",
+        personnage: "",
+        film: "Astérix et Obélix Mission Cléopâtre"
     }
 ];
 
