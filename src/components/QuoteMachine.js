@@ -286,6 +286,16 @@ const quotes = [{
         replique: "La famille, ça va ? - Ca va, ça va, Imhotep.",
         personnage: "",
         film: "Astérix et Obélix Mission Cléopâtre"
+    },
+    {
+        replique: "Prenez un chewing-gum Emile.",
+        personnage: "Chantal Lauby",
+        film: "La cité de la peur"
+    },
+    {
+        replique: "Cours Forrest ! Cours !",
+        personnage: "Robin Wright",
+        film: "Forrest Gump"
     }
 ];
 
