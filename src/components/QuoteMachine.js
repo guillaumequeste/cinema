@@ -288,7 +288,7 @@ const quotes = [{
         film: "Astérix et Obélix Mission Cléopâtre"
     },
     {
-        replique: "Prenez un chewing-gum Emile.",
+        replique: "Sarah Connor ? - C'est à côté.",
         personnage: "Chantal Lauby",
         film: "La cité de la peur"
     },
