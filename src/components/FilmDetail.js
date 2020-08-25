@@ -1415,6 +1415,16 @@ const films = {
         synopsis: "Princesse soumise à un étouffant protocole, Ann n'a pas une minute de liberté. En déplacement à Rome, elle fait la rencontre du journaliste Joe Bradley qui la reçoit chez lui sans connaître son statut. Sous le charme du jeune homme, Ann profite enfin d'un moment d'évasion avant que sa condition ne la rattrape.",
         avis: "Quand l'éphémère devient éternel."
     },
+    11650: { 
+        titre: "Voyage à deux",
+        image: "voyage_a_deux.jpg",
+        genre: "romance, comédie dramatique",
+        annee: "1966",
+        realisateur: 'Stanley Donen',
+        acteurs: "Audrey Hepburn, Albert Finney, Eleanor Bron, William Daniels",
+        synopsis: "Joanna et Mark Wallace se sont rencontrés dans le Sud de la France douze ans auparavant. En couple, puis mariés, ils se disputent énormément, à tel point qu’ils pensent au divorce. Ils partent en voyage sur la Côte d’Azur, le moment pour eux de se remémorer leurs précédents voyages, leurs bons et mauvais moments dans un kaléidoscope de leurs années de jeunesse. Leurs chemins peuvent-ils se séparer ?",
+        avis: "Un road-movie sentimental avec la musique d'Henry Mancini."
+    },
     11700: { 
         titre: "Ожидая (En attendant)",
         image: "en_attendant.jpg",
