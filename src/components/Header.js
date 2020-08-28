@@ -12,6 +12,7 @@ class Header extends Component {
                 <Link to="/realisateurs" className="linkTextDecoration"><span className="petit"><img src={require("../img/camera.png")} alt="camera" style={{width: "30px"}}></img></span><span className="grand">Réalisateurs</span></Link>
                 <Link to="/compositeurs" className="linkTextDecoration"><span className="petit"><img src={require("../img/note.png")} alt="camera" style={{width: "30px"}}></img></span><span className="grand">Compositeurs</span></Link>
                 <Link to="/repliques" className="linkTextDecoration"><span className="grand">Répliques</span><span className="petit">"Abc"</span></Link>
+                <Link to="/contact" className="linkTextDecoration"><span className="petit"><img src={require("../img/contact.png")} alt="contact" style={{width: "30px"}}></img></span><span className="grand"></span></Link>
             </div>
         )
     }
