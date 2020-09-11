@@ -296,6 +296,11 @@ const quotes = [{
         replique: "Cours Forrest ! Cours !",
         personnage: "Robin Wright",
         film: "Forrest Gump"
+    },
+    {
+        replique: "Le lion ne s'associe pas avec le cafard.",
+        personnage: "Gérard Darmon",
+        film: "Astérix et Obélix Mission Cléopâtre"
     }
 ];
 
