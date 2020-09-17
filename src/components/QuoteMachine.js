@@ -97,6 +97,11 @@ const quotes = [{
         film: "Camping"
     },
     {
+        replique: "Pastis par temps bleu, Pastis délicieux !",
+        personnage: "Claude Brasseur",
+        film: "Camping"
+    },
+    {
         replique: "Maintenant elle va marcher beaucoup moins bien, forcément...",
         personnage: "Bourvil",
         film: "Le Corniaud"
@@ -111,7 +116,6 @@ const quotes = [{
         personnage: "Louis de Funès",
         film: "Les aventures de Rabbi Jacob"
     },
-
     {
         replique: "C'est le Nooooord.",
         personnage: "Michel Galabru",
