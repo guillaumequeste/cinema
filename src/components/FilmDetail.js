@@ -595,6 +595,16 @@ const films = {
         synopsis: "Pendant la Guerre de Sécession, trois hommes, préférant s'intéresser à leur profit personnel, se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Tuco sait que le trésor se trouve dans un cimetière, tandis que Joe connaît le nom inscrit sur la pierre tombale qui sert de cache. Chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Setenza, une brute qui n'hésite pas à massacrer femmes et enfants pour parvenir à ses fins.",
         avis: "Sergio Leone - Ennio Morricone. Le dernier film de la trilogie du dollar."
     },
+    4750: { 
+        titre: "Le boucher",
+        image: "le_boucher.jpg",
+        genre: "drame, thriller",
+        annee: "1970",
+        realisateur: 'Claude Chabrol',
+        acteurs: "Stéphane Audran, Jean Yanne, Roger Rudel, William Guérault",
+        synopsis: "Dans un village du Périgord, la vie quotidienne des habitants cesse brusquement d'être tranquille. Des femmes sont égorgées. Par qui ? Le boucher, qui a fait les guerres d'Indochine et d'Algerie, semble devenir le suspect numero un aux yeux de la directrice d'école, qui ressentait pour lui de tendres sentiments.",
+        avis: "Le charme de la campagne française avec des acteurs formidables."
+    },
     4800: { 
         titre: "Le Chasseur et la Reine des glaces",
         image: "le_chasseur_et_la_reine_des_glaces.jpg",
@@ -984,6 +994,16 @@ const films = {
         acteurs: "Max Elloy, Henri Génès, Ray Ventura, Jeannette Batti, Audrey Hepburn",
         synopsis: "L'orchestre du célèbre Ray Ventura est en partance pour Monte-Carlo quand une nourrice arrive chargée d'un nourrisson. Elle le remet à l'un des membres par erreur le prenant pour son grand-père. Le bébé accompagne donc la troupe en tournée et chacun commence à s'attacher à l'enfant pendant que la nourrice, ayant compris sa méprise, part à leur recherche.",
         avis: "Une comédie où tous les acteurs s'en donnent à coeur joie avec en guest-star Audrey Hepburn."
+    },
+    8040: { 
+        titre: "Nous ne vieillirons pas ensemble",
+        image: "nous_ne_vieillirons_pas_ensemble.jpg",
+        genre: "drame",
+        annee: "1972",
+        realisateur: 'Maurice Pialat',
+        acteurs: "Marlène Jobert, Jean Yanne, Macha Méril, Christine Fabrega",
+        synopsis: "Jean, la quarantaine, est un éternel enfant doublé d'un cinéaste raté. Marié depuis de nombreuses années, il ne peut se résoudre à quitter sa femme pour sa jeune maitresse qu'il côtoie depuis six ans : Catherine. Pourtant amoureux de cette dernière, son comportement et leurs violentes disputes les éloignent un peu plus chaque jour. Jusqu'à ce que Catherine lui annonce son mariage avec un autre homme. Jean impuissant face à cette situation, n'a d'autre choix que de la voir sortir de sa vie...",
+        avis: "Un couple d'acteurs épatant."
     },
     8050: { 
         titre: "Once Upon a Time... in Hollywood",

@@ -38,6 +38,17 @@ const series = {
         synopsis: "Après la mort mystérieuse de son mari, Norma Bates décide de refaire sa vie loin de l'Arizona, dans la petite ville de White Pine Bay dans l'Oregon, et emmène avec elle son fils Norman, âgé de 17 ans. Elle rachète là-bas un vieux motel abandonné depuis de nombreuses années, ainsi que le manoir qui trône majestueusement quelques mètres plus loin. La mère et le fils partagent depuis toujours une relation complexe, presque incestueuse. Des événements tragiques vont les pousser à se rapprocher encore davantage. Ils partagent désormais ensemble un lourd secret...",
         avis: "Le prequel actualisé de Psychose d'Alfred Hitchcock."
       },
+      350: { 
+        titre: "Big Little Lies",
+        image: "big_little_lies.jpg",
+        genre: "drame, thriller",
+        saisons: "2",
+        episodes: "14",
+        realisateur: "Liane Moriarty, David E. Kelley",
+        acteurs: "Reese Witherspoon, Nicole Kidman, Shailene Woodley, Laura Dern",
+        synopsis: "Quand Madeline, Jane et Celeste se lient d'amitié par l'intermédiaire de leurs enfants, elles ne se doutent pas qu'elles vont se retrouver, des mois plus tard, au centre d'un tragique accident, survenu à la fête de l'école. Qui est mort ? Qui est responsable ? Et pour quelle raison ? Secrets, rumeurs et mensonges ne faisant pas bon ménage, tout l'univers de la petite ville de Monterey va être secoué de violents soubresauts.",
+        avis: "Les actrices sont formidables."
+      },
    400: { 
       titre: "Black Mirror",
       image: "black_mirror.jpg",

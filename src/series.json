@@ -38,6 +38,19 @@
     "avis": "Le prequel actualisé de Psychose d'Alfred Hitchcock."
 },
 {
+    "id": "350",
+    "name": "Big Little Lies",
+    "titre": "Big Little Lies",
+    "image": "big_little_lies.jpg",
+    "genre": "drame, thriller",
+    "saisons": "2",
+    "episodes": "14",
+    "realisateur": "Liane Moriarty, David E. Kelley",
+    "acteurs": "Reese Witherspoon, Nicole Kidman, Shailene Woodley, Laura Dern",
+    "synopsis": "Quand Madeline, Jane et Celeste se lient d'amitié par l'intermédiaire de leurs enfants, elles ne se doutent pas qu'elles vont se retrouver, des mois plus tard, au centre d'un tragique accident, survenu à la fête de l'école. Qui est mort ? Qui est responsable ? Et pour quelle raison ? Secrets, rumeurs et mensonges ne faisant pas bon ménage, tout l'univers de la petite ville de Monterey va être secoué de violents soubresauts.",
+    "avis": "Les actrices sont formidables."
+},
+{
     "id": "400",
     "name": "Black Mirror",
     "titre": "Black Mirror",
