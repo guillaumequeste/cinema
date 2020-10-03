@@ -90,6 +90,19 @@
     "avis": "La série qui a fait tant parler."
 },
 {
+    "id": "510",
+    "name": "Gardens of the World with Audrey Hepburn",
+    "titre": "Gardens of the World with Audrey Hepburn",
+    "image": "gardens.jpg",
+    "genre": "série télévisée documentaire",
+    "saisons": "1",
+    "episodes": "8",
+    "realisateur": "Bruce Franchini",
+    "acteurs": "Audrey Hepburn, Michael York",
+    "synopsis": "Série télévisée documentaire des années 1990 filmée sur place dans certains des plus beaux jardins du monde, animée par Audrey Hepburn, qui a également co-narré la série avec Michael York.",
+    "avis": "Apaisant"
+},
+{
     "id": "600",
     "name": "H",
     "titre": "H",

@@ -71,7 +71,7 @@ const series = {
         synopsis: "CVingt ans après avoir crevé le petit écran dans la sitcom culte Horsin’ Around, l’étalon le plus célèbre des années 1990 a perdu de sa superbe. Alcoolique et déprimé, BoJack vit dans une garçonnière à Hollywood et traîne son amertume dans des pulls bigarrés. Heureusement (ou malheureusement ?), le bourrin peut compter sur des amis parfois un brin encombrants : Diane NGuyen, nègre littéraire chargé d’écrire son autobiographie, Princess Carolyn, tour à tour ex-petite amie et agent attitrée, Todd Chavez, colocataire autoproclamé et même le cabotin Mr. Peanutbutter, rival et héros toujours populaire d’une sitcom analogue. À Los Angeles où humains et animaux de tout poil cohabitent, BoJack essaie tant bien que mal de raviver sa gloire passée.",
         avis: "Drôle, émouvant, intelligent."
       },
-    500: { 
+      500: { 
         titre: "Game of Thrones",
         image: "game_of_thrones.jpg",
         genre: "drame, fantastique",
@@ -81,6 +81,17 @@ const series = {
         acteurs: "Emilia Clarke, Kit Harrington, Peter Dinklage",
         synopsis: "Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur, n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de Fer, le symbole du pouvoir absolu.",
         avis: "La série qui a fait tant parler."
+      },
+      510: { 
+        titre: "Gardens of the World with Audrey Hepburn",
+        image: "gardens.jpg",
+        genre: "série télévisée documentaire",
+        saisons: "1",
+        episodes: "8",
+        realisateur: "Bruce Franchini",
+        acteurs: "Audrey Hepburn, Michael York",
+        synopsis: "Série télévisée documentaire des années 1990 filmée sur place dans certains des plus beaux jardins du monde, animée par Audrey Hepburn, qui a également co-narré la série avec Michael York.",
+        avis: "Apaisant"
       },
       600: { 
         titre: "H",
