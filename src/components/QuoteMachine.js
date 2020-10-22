@@ -305,6 +305,16 @@ const quotes = [{
         replique: "Le lion ne s'associe pas avec le cafard.",
         personnage: "Gérard Darmon",
         film: "Astérix et Obélix Mission Cléopâtre"
+    },
+    {
+        replique: "Salut ! Je m'appelle Quentin, je suis de Montargis.",
+        personnage: "Gérard Depardieu",
+        film: "Tais-toi !"
+    },
+    {
+        replique: "Et arrête de dire OK sans arrêt. Ok ? Ok.",
+        personnage: "Jean Réno, Nathalie Portman",
+        film: "Léon"
     }
 ];
 
