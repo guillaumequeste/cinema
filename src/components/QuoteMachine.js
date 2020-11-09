@@ -315,6 +315,26 @@ const quotes = [{
         replique: "Et arrête de dire OK sans arrêt. Ok ? Ok.",
         personnage: "Jean Réno, Nathalie Portman",
         film: "Léon"
+    },
+    {
+        replique: "La peur mène à la colère. La colère mène à la haine. La haine mène à la souffrance.",
+        personnage: "Yoda",
+        film: "La Menace fantôme"
+    },
+    {
+        replique: "Toujours par deux ils vont. Ni plus, ni moins. Le maître et son apprenti.",
+        personnage: "Yoda",
+        film: "La Menace fantôme"
+    },
+    {
+        replique: "Beaucoup encore il te reste à apprendre.",
+        personnage: "Yoda",
+        film: "L'Attaque des clones'"
+    },
+    {
+        replique: "Un grand guerrier ? Personne par la guerre ne devient grand.",
+        personnage: "Yoda",
+        film: "L'Empire contre-attaque"
     }
 ];
 
