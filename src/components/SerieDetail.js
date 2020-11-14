@@ -28,6 +28,17 @@ const series = {
         avis: "Très bien joué."
       },
       300: { 
+        titre: "Balthazar",
+        image: "balthazar.jpg",
+        genre: "policier, thriller",
+        saisons: "3",
+        episodes: "24",
+        realisateur: "Clélia Constantine, Clothilde Jamin, Frédéric Berthe",
+        acteurs: "Tomer Sisley, Hélène de Fougerolles, Yannig Samot, Philypa Phoenix, Côme Levin",
+        synopsis: "Raphaël Balthazar est le médecin légiste le plus doué de sa génération, il sait faire parler les morts comme personne. Il fascine autant qu'il exaspère, car il se moque des normes et des conventions. Il va devenir le co-équipier du commandant de police Hélène Bach récemment arrivée à la criminelle. Tous deux vont se confronter aux enquêtes meurtrières les plus complexes. Mais Balthazar est hanté par l'assassinat sanglant de sa femme, Lise, 12 ans plus tôt. Il devra composer avec cette blessure constante pour rester impliqué dans les enquêtes qu'il mène avec Hélène.",
+        avis: "Tomer Sisley est parfait en légiste cool et torturé."
+      },
+      310: { 
         titre: "Bates Motel",
         image: "bates_motel.jpg",
         genre: "drame, policier, thriller",
@@ -325,6 +336,17 @@ const series = {
         avis: "Une plongée dans les années 80."
       },
       2200: { 
+        titre: "The Mandalorian",
+        image: "the_mandalorian.jpg",
+        genre: "aventure, science-fiction",
+        saisons: "2",
+        episodes: "16",
+        realisateur: "Jon Favreau",
+        acteurs: "Pedro Pascal, Paul Sun-Hyung Lee, Gina Carano, Carl Weathers, Nick Nolte",
+        synopsis: "L'intrigue, située entre la chute de l'Empire et l'émergence du Premier Ordre, suit les voyages d'un chasseur de primes solitaire dans les contrées les plus éloignées de la Galaxie, loin de l’autorité de la Nouvelle République.",
+        avis: "Retour aux bases de ce qui a fait Star Wars."
+      },
+      2250: { 
         titre: "The Ricky Gervais Show",
         image: "the_ricky_gervais_show.jpeg",
         genre: "comédie, animation",
