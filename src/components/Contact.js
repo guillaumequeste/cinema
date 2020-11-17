@@ -30,8 +30,6 @@ class Contact extends Component {
                 <Header />
                 <div className="bodyContact">
                     <div className="contact">
-                        <h1>Contact</h1>
-                        <br />
                         <h3 className="msgContact">guillaume.queste@laposte.net</h3>
                         <a href="http://www.guillaumequeste.fr" title="portfolio de Guillaume Queste" target="_blank" rel="noopener noreferrer" className="msgContact">http://www.guillaumequeste.fr</a>
                     </div>
