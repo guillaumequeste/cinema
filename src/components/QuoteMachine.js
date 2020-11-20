@@ -67,11 +67,6 @@ const quotes = [{
         film: "La cité de la peur"
     },
     {
-        replique: "Je ne crois pas qu'il y ait de bonne ou de mauvaise situation.",
-        personnage: "Edouard Baer",
-        film: "Astérix et Obélix : Mission Cléopâtre"
-    },
-    {
         replique: "- Il s'appelle Juste Leblanc. - Ah bon, il a pas de prénom ?",
         personnage: "Thierry Lhermitte et Jacques Villeret",
         film: "Le dîner de cons"
@@ -289,7 +284,7 @@ const quotes = [{
     {
         replique: "La famille, ça va ? - Ca va, ça va, Imhotep.",
         personnage: "",
-        film: "Astérix et Obélix Mission Cléopâtre"
+        film: "Astérix et Obélix : Mission Cléopâtre"
     },
     {
         replique: "Sarah Connor ? - C'est à côté.",
@@ -304,7 +299,7 @@ const quotes = [{
     {
         replique: "Le lion ne s'associe pas avec le cafard.",
         personnage: "Gérard Darmon",
-        film: "Astérix et Obélix Mission Cléopâtre"
+        film: "Astérix et Obélix : Mission Cléopâtre"
     },
     {
         replique: "Salut ! Je m'appelle Quentin, je suis de Montargis.",
@@ -335,6 +330,61 @@ const quotes = [{
         replique: "Un grand guerrier ? Personne par la guerre ne devient grand.",
         personnage: "Yoda",
         film: "L'Empire contre-attaque"
+    },
+    {
+        replique: "Pas de pierres, pas de construction. Pas de construction, pas de palais. Pas de palais, pas de palais",
+        personnage: "Gérard Darmon",
+        film: "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+        replique: "Sympa ta robe !",
+        personnage: "Edouard Montoute",
+        film: "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+        replique: "Ca va être du grand Mendez !",
+        personnage: "Abbes Zahmani",
+        film: "Camping"
+    },
+    {
+        replique: "Y a un très gros problème en défense !",
+        personnage: "Isabelle Nanty",
+        film: "3 zéros"
+    },
+    {
+        replique: "Le fil vert sur le bouton vert, le fil rouge sur le bouton rouge.",
+        personnage: "Robert Lamoureux",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Groupir ! Reste groupir !",
+        personnage: "Michel Modo",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Si j' connaissais l' con qu'a fait sauter l' pont.",
+        personnage: "Jean Lefebvre",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Vous affez du à l'ail ?",
+        personnage: "Jean Lefebvre",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Qu'est-ce que vous nagez bien, chef !",
+        personnage: "Jean Lefebvre",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "La main en sifflet et vers l'extérieur.",
+        personnage: "Pierre Mondy",
+        film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Comment on fait pour devenir chef, chef ?",
+        personnage: "Jean Lefebvre",
+        film: "On a retrouvé la 7ème Compagnie"
     }
 ];
 
