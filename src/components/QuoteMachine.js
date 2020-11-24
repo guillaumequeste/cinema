@@ -385,6 +385,16 @@ const quotes = [{
         replique: "Comment on fait pour devenir chef, chef ?",
         personnage: "Jean Lefebvre",
         film: "On a retrouvé la 7ème Compagnie"
+    },
+    {
+        replique: "Nous fouloir fin rouche !",
+        personnage: "Jean Lefebvre",
+        film: "Mais où est donc passée la èème Compagnie"
+    },
+    {
+        replique: "Obé ? - Non c'est Pano !",
+        personnage: "Christian Clavier et Claude Rich",
+        film: "Astérix et Obélix : Mission Cléopâtre"
     }
 ];
 
