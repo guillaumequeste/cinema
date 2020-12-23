@@ -255,6 +255,16 @@ const films = {
         synopsis: "Les enfants de Holt Farrier, ex-artiste de cirque chargé de s’occuper d’un éléphanteau dont les oreilles démesurées sont la risée du public, découvrent que ce dernier sait voler...",
         avis: "L'univers de Walt Disney revisité par Tim Burton. Magique."
     },
+    1760: { 
+        titre: "Du silence et des ombres",
+        image: "du_silence_et_des_ombres.jpg",
+        genre: "drame, policier",
+        annee: "1962",
+        realisateur: 'Robert Mulligan',
+        acteurs: "Gregory Peck, Mary Badham, Phillip Alford, John Megna",
+        synopsis: "Dans une petite ville d'Alabama, au moment de la Grande Dépression, Atticus Finch élève seul ses deux enfants, Jem et Scout. Avocat intègre et rigoureux, il est commis d'office pour défendre un homme noir injustement accusé de viol...",
+        avis: "Formidable film qui reste d'actualité."
+    },
     1775: { 
         titre: "Et pour quelques dollars de plus",
         image: "quelques.jpg",
