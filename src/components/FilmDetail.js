@@ -505,6 +505,16 @@ const films = {
         synopsis: "1942, au large de Bonifacio. La Wehrmacht a fait immerger de l'or et des documents classés secret défense. Les espions du monde entier convoîtent ce trésor. Les services secrets français font alors appel à leur meilleur agent, Dromart, alias 'Le Monocle'.",
         avis: "Le deuxième volet de la trilogie centrée sur le commandant Théobald Dromard dit Le Monocle."
     },
+    3850: { 
+        titre: "La Belle Equipe",
+        image: "la_belle_equipe.jpeg",
+        genre: "comédie dramatique",
+        annee: "1936",
+        realisateur: 'Julien Duvivier',
+        acteurs: "Jean Gabin, Charles Vanel, Raymond Aimos, Charles Dorat, Raphaël Médina",
+        synopsis: "Cinq ouvriers chômeurs parisiens, Jean, Charles, Raymond, Jacques et Mario, un étranger menacé d'expulsion, gagnent le gros lot de la loterie nationale. Jean a l'idée de placer cet argent en commun, dans l'achat d'un vieux lavoir de banlieue en ruine, qu'ils transformeront en riante guinguette dont ils seront les copropriétaires. Ils s'attellent à la besogne avec confiance. Mais la solidarité du groupe est fragile... Le destin s'acharne sur eux. Bientôt, il ne reste plus de la joyeuse équipe que Charles et Jean qui sont amoureux de la même femme, Gina….",
+        avis: "Un film de copains."
+    },
     3900: { 
         titre: "La cité de la peur",
         image: "la_cite_de_la_peur.jpg",
@@ -1444,6 +1454,16 @@ const films = {
         acteurs: "Audrey Hepburn, Gregory Peck, Eddie Albert",
         synopsis: "Princesse soumise à un étouffant protocole, Ann n'a pas une minute de liberté. En déplacement à Rome, elle fait la rencontre du journaliste Joe Bradley qui la reçoit chez lui sans connaître son statut. Sous le charme du jeune homme, Ann profite enfin d'un moment d'évasion avant que sa condition ne la rattrape.",
         avis: "Quand l'éphémère devient éternel."
+    },
+    11630: { 
+        titre: "Voici le temps des assassins",
+        image: "voici_le_temps_des_assassins.jpeg",
+        genre: "drame",
+        annee: "1956",
+        realisateur: 'Julien Duvivier',
+        acteurs: "Jean Gabin, Danièle Delorme, Gérard Blain, Robert Arnoux",
+        synopsis: "À Paris, André Chatelin, un restaurateur au grand cœur, voit débarquer la fille de sa première épouse qu'il n'a pas vue depuis des années. La jeune femme se prénomme Catherine et déclare que depuis la mort de sa mère à Marseille elle n'a nulle part où aller. Bientôt, la jeune fille tente d'évincer Gérard, un sympathique étudiant sans le sou qu'André considère comme son fils. Ce n'est que le début de son projet machiavélique…",
+        avis: "Un film noir dans le Paris d'après-guerre."
     },
     11650: { 
         titre: "Voyage à deux",
