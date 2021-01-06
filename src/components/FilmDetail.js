@@ -165,6 +165,16 @@ const films = {
         synopsis: "Aux sports d’hiver, une Américaine tombe amoureuse d’un séduisant célibataire. De retour à Paris, elle apprend le meurtre de son mari et elle va être poursuivie par d’étranges personnages, à la recherche d'un magot caché par la victime et dont elle ignore tout...",
         avis: "Une comédie policière dans le Paris des années 60."
     },
+    1250: { 
+        titre: "Comment voler un million de dollars",
+        image: "comment_voler_un_million_de_dollars.jpg",
+        genre: "policier, comédie, romance",
+        annee: "1966",
+        realisateur: 'William Wyler',
+        acteurs: "Audrey Hepburn, Peter O'Toole, Hugh Griffith, Eli Wallach",
+        synopsis: "ACharles Bonnet possède une impressionnante collection d'art, dont il vend parfois quelques pièces à d'autres amateurs. Seul problème, les œuvres sont en fait d'ingénieuses imitations. Par défi et orgueil, il accepte de prêter une somptueuse statuette à un musée : la Vénus de Cellini. Ce qu'il ignore, c'est que la fameuse statuette va faire l'objet d'une expertise. Sa fille, inquiète, décide de régler l'affaire à l'aide d'un séduisant inconnu, qu'elle prend pour un voleur mais qui est en réalité un détective privé.",
+        avis: "Une comédie policière dans le Paris des années 60."
+    },
     1300: { 
         titre: "Dans la maison",
         image: "dans_la_maison.jpg",
@@ -244,6 +254,16 @@ const films = {
         acteurs: "Michel Simon, Louis Jouvet, Françoise Rosay, Jean-Pierre Aumont",
         synopsis: "Londres 1900. Le très sérieux professeur de botanique Irwin Molyneux n'est autre que Felix Chapel, auteur de romans policiers. L'évèque de Bedford, cousin d'Irwin, n'apprecie guère ce genre de littérature et le déclare bien fort lors d'un souper où il est invité chez les Molyneux. L'absence de Margaret, la femme de Molyneux, à ce souper, va déclencher une série de quiproquos fort amusants.",
         avis: "Michel Simon, Louis Jouvet, formidable."
+    },
+    1710: { 
+        titre: "Drôle de frimousse",
+        image: "drole_de_frimousse.jpg",
+        genre: "comédie musicale, romance",
+        annee: "1957",
+        realisateur: 'Stanley Donen',
+        acteurs: "Audrey Hepburn, Fred Astaire, Kay Thompson, Michel Auclair",
+        synopsis: "Choisie comme égérie par un grand magazine de mode new-yorkais, une libraire de Greenwich Village s’envole vers les podiums parisiens. Mais la jeune femme délaisse vite les sirènes de la mode au profit des discussions philosophiques de Saint-Germain-des-Prés. Le photographe du journal est chargé d’y mettre bon ordre...",
+        avis: "Un classique."
     },
     1750: { 
         titre: "Dumbo",
@@ -994,6 +1014,16 @@ const films = {
         acteurs: "Naomi Watts, Laura Harring, Justin Theroux, Ann Miller",
         synopsis: "A Hollywood, durant la nuit, Rita, une jeune femme, devient amnésique suite à un accident de voiture sur la route de Mulholland Drive. Elle fait la rencontre de Betty Elms, une actrice en devenir qui vient juste de débarquer à Los Angeles. Aidée par celle-ci, Rita tente de retrouver la mémoire ainsi que son identité.",
         avis: "David Lynch - Naomi Watts."
+    },
+    7950: { 
+        titre: "My Fair Lady",
+        image: "my_fair_lady.jpg",
+        genre: "comédie musicale, drame, famille, romance",
+        annee: "1964",
+        realisateur: 'George Cukor',
+        acteurs: "Audrey Hepburn, Rex Harrison, Marni Nixon, Stanley Holloway",
+        synopsis: "Un éminent professeur de phonétique rencontre en 1912, près de Covent Garden à Londres, une fort jolie petite marchande de fleurs. Il décide d'en faire une grande dame.",
+        avis: "Un classique."
     },
     8000: { 
         titre: "Ne nous fâchons pas",

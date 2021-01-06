@@ -63,6 +63,10 @@
     "name": "Charade"
 },
 {
+    "id": "1250",
+    "name": "Comment voler un million de dollars"
+},
+{
     "id": "1300",
     "name": "Dans la maison"
 },
@@ -93,6 +97,10 @@
 {
     "id": "1700",
     "name": "Drôle de drame"
+},
+{
+    "id": "1710",
+    "name": "Drôle de frimmousse"
 },
 {
     "id": "1750",
@@ -393,6 +401,10 @@
 {
     "id": "7900",
     "name": "Mulholland Drive"
+},
+{
+    "id": "7950",
+    "name": "My Fair Lady"
 },
 {
     "id": "8000",
