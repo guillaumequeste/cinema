@@ -335,6 +335,17 @@ const series = {
         synopsis: "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d’embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite. Les garçons se lient d'amitié avec la demoiselle tatouée du chiffre '11' sur son poignet et au crâne rasé et découvrent petit à petit les détails sur son inquiétante situation. Elle est peut-être la clé de tous les mystères qui se cachent dans cette petite ville en apparence tranquille…",
         avis: "Une plongée dans les années 80."
       },
+      2150: { 
+        titre: "The Bay",
+        image: "the_bay.jpg",
+        genre: "drame, policier",
+        saisons: "2",
+        episodes: "12",
+        realisateur: "Daragh Carville, Richard Clark",
+        acteurs: "Morven Christie, Daniel Ryan, Taheen Modak, Imogen King, Art Parkinson",
+        synopsis: "Assignée au service des personnes disparues à Morecambe Bay, Lisa Armstrong doit apporter son soutien aux familles au pire moment de leurs vies. Entraînée à ne jamais s'impliquer émotionnellement, il lui faut rester attentive au moindre indice susceptible d'aider à faire avancer l'enquête. Sa situation est cependant compromise quand elle découvre qu’elle a un lien de parenté avec deux jumeaux disparus...",
+        avis: "Brilliant."
+      },
       2200: { 
         titre: "The Mandalorian",
         image: "the_mandalorian.jpg",

@@ -389,6 +389,19 @@
     "avis": "Une plongée dans les années 80."
 },
 {
+    "id": "2150",
+    "name": "The Bay",
+    "titre": "The Bay",
+    "image": "the_bay.jpg",
+    "genre": "drame, policier",
+    "saisons": "2",
+    "episodes": "12",
+    "realisateur": "Daragh Carville, Richard Clark",
+    "acteurs": "Morven Christie, Daniel Ryan, Taheen Modak, Imogen King, Art Parkinson",
+    "synopsis": "Assignée au service des personnes disparues à Morecambe Bay, Lisa Armstrong doit apporter son soutien aux familles au pire moment de leurs vies. Entraînée à ne jamais s'impliquer émotionnellement, il lui faut rester attentive au moindre indice susceptible d'aider à faire avancer l'enquête. Sa situation est cependant compromise quand elle découvre qu’elle a un lien de parenté avec deux jumeaux disparus...",
+    "avis": "Brilliant."
+},
+{
     "id": "2200",
     "name": "The Mandalorian",
     "titre": "The Mandalorian",
