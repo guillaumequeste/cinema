@@ -65,6 +65,16 @@ const films = {
         synopsis: "Cléopâtre, la reine d’Égypte, décide, pour défier l'Empereur romain Jules César, de construire en trois mois un palais somptueux en plein désert. Si elle y parvient, celui-ci devra concéder publiquement que le peuple égyptien est le plus grand de tous les peuples. Pour ce faire, Cléopâtre fait appel à Numérobis, un architecte d'avant-garde plein d'énergie. S'il réussit, elle le couvrira d'or. S'il échoue, elle le jettera aux crocodiles. Celui-ci, conscient du défi à relever, cherche de l'aide auprès de son vieil ami Panoramix. Le druide fait le voyage en Égypte avec Astérix et Obélix. De son côté, Amonbofis, l'architecte officiel de Cléopâtre, jaloux que la reine ait choisi Numérobis pour construire le palais, va tout mettre en œuvre pour faire échouer son concurrent.",
         avis: "Cultissime. Une pléïade de guests."
     },
+    420: { 
+        titre: "Au risque de se perdre",
+        image: "au_risque_de_se_perdre.png",
+        genre: "drame",
+        annee: "1959",
+        realisateur: 'Fred Zinnemann',
+        acteurs: "Audrey Hepburn, Peter Finch, Dame Edith Evans, Dame Peggy Ashcroft",
+        synopsis: "Gabrielle Van Der Mal intègre un couvent à Bruxelles pour suivre des cours de médecine mais rebelle, la jeune femme a du mal à accepter l'autorité de la mère supérieure. Ses études terminées, elle s'envole pour le Congo pour être l'assistante médicale du professeur Fortunati. Sur place, face aux malades et blessés graves, Gabrielle prend conscience de ce qu'elle désire réellement. Mais aura-t-elle le courage d'assumer ses convictions les plus secrètes ?",
+        avis: "Audrey Hepburn"
+    },
     450: { 
         titre: "Babel",
         image: "babel.jpg",
