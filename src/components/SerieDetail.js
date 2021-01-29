@@ -181,6 +181,17 @@ const series = {
         synopsis: "Esther, une fillette de 10 ans, partage son quotidien entre son école, ses amis, sa famille, ses idoles. Ce qu’elle ne dit pas à ses parents, elle le raconte à travers ce journal intime, tour à tour drôle et émouvant, tendre et cruel, un véritable portrait de la jeunesse d’aujourd’hui et un miroir de notre société. Adaptation de la bande dessinée de Riad Sattouf.",
         avis: "Touchant."
       },
+      1230: {
+        titre: "Les petits meurtres d'Agatha Christie",
+        image: "les_petits_meurtres.jpg",
+        genre: "policier",
+        saisons: "3",
+        episodes: "42",
+        realisateur: "Eric Woreth, Nicolas Picard-Dreyfuss, Marc Angelo...",
+        acteurs: "Samuel Labarthe, Blandine Bellavoir, Elodie Frenck, Antoine Duléry, Marius Colucci, Emilie Gavois-Kahn, Arthur Dupont, Chloé Chaudoye",
+        synopsis: "Des adaptations des romans d'Agatha Christie.",
+        avis: "Sympathique."
+      },
       1250: { 
         titre: "Les Simpson",
         image: "les_simpson.jpg",
