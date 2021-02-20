@@ -237,6 +237,76 @@ const quotes = [{
         film: "Les Tontons flingueurs"
     },
     {
+        replique: "C'est curieux chez les marins ce besoin de faire des phrases...",
+        personnage: "Francis Blanche",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "On a dû arrêter la fabrication, y a des clients qui devenaient aveugles. Alors, ça faisait des histoires !",
+        personnage: "Francis Blanche",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Yes sir !",
+        personnage: "Robert Dalban",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "J'annonce les employés, pas le patron...",
+        personnage: "Venantino Venantini",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Mais dis donc, on n'est quand même pas venus pour beurrer les sandwichs !",
+        personnage: "Bernard Blier",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Je vais lui montrer qui c'est Raoul. Aux quatre coins de Paris qu'on va le retrouver, éparpillé par petits bouts, façon puzzle.",
+        personnage: "Bernard Blier",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Alors, il dort le gros con ?",
+        personnage: "Bernard Blier",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Faut r'connaître… c'est du brutal !",
+        personnage: "Bernard Blier",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Ton Antoine commence à me les briser menu !",
+        personnage: "Lino Ventura",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "J'ai connu une Polonaise qu'en prenait au p'tit déjeuner.",
+        personnage: "Lino Ventura",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Vous avez beau dire, y a pas seulement que d'la pomme...",
+        personnage: "Jean Lefebvre",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "La bave du crapaud n'empêche pas la caravane de passer !",
+        personnage: "Horst Frank",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Y'a des impulsifs qui téléphonent, y'en a d'autres qui se déplacent.",
+        personnage: "Horst Frank",
+        film: "Les Tontons flingueurs"
+    },
+    {
+        replique: "Je suis obligé de constater, Madame, que votre éclat rendrait jaloux le soleil lui-même. ",
+        personnage: "Paul Meurisse",
+        film: "L'oeil du monocle"
+    },
+    {
         replique: "C'mon, Dover ! Move your bloomin' arse !",
         personnage: "Audrey Hepburn",
         film: "My fair lady"
