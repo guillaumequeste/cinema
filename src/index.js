@@ -13,10 +13,12 @@ import Realisateurs from './components/Realisateurs'
 import Compositeurs from './components/Compositeurs'
 import Contact from './components/Contact'
 import ErrorNotFound from './components/ErrorNotFound'
+import ScrollToTop from './components/ScrollToTop'
 
 
 const Root = () => (
     <Router>
+        <ScrollToTop />
         <Switch>
             <Route exact path='/' component={App}/>
             <Route path='/liste_films' component={ListeFilms}/>
