@@ -775,6 +775,36 @@ const films = {
         synopsis: "Joseph Rouletabille est hanté par une femme qui venait lui rendre visite, enfant, au pensionnat et dont il conserve le souvenir obsédant du parfum. Tandis qu'il s'en ouvre à Sainclair, son fidèle acolyte, il apprend que son amie Mathilde Stangerson convolant en voyage de noces avec son mari Robert Darzac, est en danger. Il s'empresse de la rejoindre, craignant le retour de l'illusioniste et intrépide Ballmeyer.",
         avis: "La suite du mystère de la chambre jaune. Toujours aussi sympathique."
     },
+    5630: { 
+        titre: "Le Parrain",
+        image: "le_parrain.jpg",
+        genre: "policier, drame",
+        annee: "1972",
+        realisateur: 'Francis Ford Coppola',
+        acteurs: "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano, Robert Duvall",
+        synopsis: "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone est le 'Parrain' de cette famille.",
+        avis: "Culte. Marlon Brando est le 'Parrain'. Al Pacino est le successeur."
+    },
+    5631: { 
+        titre: "Le Parrain, 2e partie",
+        image: "le_parrain_2.jpg",
+        genre: "policier, drame",
+        annee: "1974",
+        realisateur: 'Francis Ford Coppola',
+        acteurs: "Al Pacino, Robert De Niro, Diane Keaton, Robert Duvall",
+        synopsis: "Depuis la mort de Don Vito Corleone, son fils Michael règne sur la famille. Amené à négocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. Echappant de justesse à un attentat, Michael tente de retrouver le coupable, soupçonnant Hyman Roth, le chef de la mafia juive.",
+        avis: "Robert De Niro est incroyable en 'futur' Parrain."
+    },
+    5632: { 
+        titre: "Le Parrain, 3e partie",
+        image: "le_parrain_3.jpg",
+        genre: "policier, drame",
+        annee: "1991",
+        realisateur: 'Francis Ford Coppola',
+        acteurs: "Al Pacino, Diane Keaton, Andy Garcia, Sofia Coppola",
+        synopsis: "DAtteignant la soixantaine, Michael Corleone désire à la fois renouer avec les siens et se réhabiliter aux yeux de la société, surtout de l'Eglise.",
+        avis: "La fin de la trilogie culte."
+    },
     5650: { 
         titre: "Le Pas Petit Poucet",
         image: "le_pas_petit_poucet.jpg",

@@ -465,6 +465,31 @@ const quotes = [{
         replique: "Obé ? - Non c'est Pano !",
         personnage: "Christian Clavier et Claude Rich",
         film: "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+        replique: "All I have in this world is my balls and my word, and I don't break 'em for no one !",
+        personnage: "Al Pacino",
+        film: "Scarface"
+    },
+    {
+        replique: "I'm Tony Montana ! You fuck with me, you fucking with the best !",
+        personnage: "Al Pacino",
+        film: "Scarface"
+    },
+    {
+        replique: "You wanna fuck with me ? Okay. You wanna play rough ? Okay. Say hello to my little friend !",
+        personnage: "Al Pacino",
+        film: "Scarface"
+    },
+    {
+        replique: "I'm gonna make him an offer he can't refuse.",
+        personnage: "Marlon Brando",
+        film: "Le Parrain"
+    },
+    {
+        replique: "Mio padre si chiamava Antonio Andolini... E chistu è pi tia !",
+        personnage: "Robert De Niro",
+        film: "Le Parrain, 2e partie"
     }
 ];
 
