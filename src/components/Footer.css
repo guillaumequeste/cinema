@@ -1,15 +1,15 @@
 .bodyFooter {
-    position: fixed;
-    bottom: 0;
-    height: 5vh;
-    width: 100%;
-    background-color: #2C3E50;
-    display: flex;
+    display: none;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1025px) {
     .bodyFooter {
-        display: none;
+        position: fixed;
+        bottom: 0;
+        height: 5vh;
+        width: 100%;
+        background-color: #2C3E50;
+        display: flex;
     }
 }
 

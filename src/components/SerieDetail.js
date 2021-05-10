@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Header from './Header'
 import Footer from './Footer'
-import './SerieDetail.css'
+import './FilmDetail.css'
 import {Helmet} from "react-helmet"
 
 const series = {

@@ -1,89 +1,84 @@
 .fiche {
-    background-color: black;
     display: flex;
-    height: 85vh;
-    padding-top: 3%;
+    flex-direction: column;
+    min-height: 90vh;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1025px) {
     .fiche {
-        flex-direction: column;
-        height: 140vh;
+        flex-direction: row;
+        background-color: black;
+        min-height: 75vh;
+        padding-top: 3%;
     }
 }
 
 .image {
-    width: 30vw;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 5%;
+    text-align: center;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1025px) {
     .image {
-        margin-left: 35%;
+        padding-top: 0;
+        width: 30%;
+        display: flex;
     }
 }
 
-@media screen and (max-width: 700px) {
-    .image {
-        margin-left: 30%;
+@media screen and (min-width: 1025px) {
+    .divImage {
+        margin: auto;
     }
 }
 
 .tailleImage {
-    width: 30vw;
-    height: 75vh;
+    width: 90%;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
     .tailleImage {
-        width: 30vw;
-        height: 45vh;
+        width: 40%;
     }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (min-width: 1025px) {
     .tailleImage {
-        width: 45vw;
-        height: 45vh;
+        width: 80%;
     }
 }
 
 .description {
-    margin: 0 5% 0 0;
-    padding-left: 2%;
     color: white;
+    padding-right: 5%;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1025px) {
     .description {
-        margin-top: 0;
-        margin-left: 5%;
+        width: 70%;
+        display: flex;
+        padding-right: 5%;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .divDescription {
+        margin: auto;
     }
 }
 
 .titreCard {
-    text-align: center;
-    font-family: 'Oleo Script', sans-serif;
-    color: rgb(27, 32, 37);
     color: white;
-}
-
-@media screen and (max-width: 1000px) {
-    .titreCard {
-        padding-left: 2%;
-        margin-bottom: 0;
-        margin-top: 0;
-    }
+    text-align: center;
 }
 
 .liCard {
-    margin-bottom: 2%;
+    margin-bottom: 1%;
     list-style: none;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1025px) {
     .liCard {
-        margin-bottom: 1%;
+        margin-bottom: 2%;
     }
 }
