@@ -79,8 +79,19 @@ const series = {
         episodes: "77",
         realisateur: "Raphael Bob-Waksberg",
         acteurs: "Will Arnett, Aaron Paul, Amy Sedaris",
-        synopsis: "CVingt ans après avoir crevé le petit écran dans la sitcom culte Horsin’ Around, l’étalon le plus célèbre des années 1990 a perdu de sa superbe. Alcoolique et déprimé, BoJack vit dans une garçonnière à Hollywood et traîne son amertume dans des pulls bigarrés. Heureusement (ou malheureusement ?), le bourrin peut compter sur des amis parfois un brin encombrants : Diane NGuyen, nègre littéraire chargé d’écrire son autobiographie, Princess Carolyn, tour à tour ex-petite amie et agent attitrée, Todd Chavez, colocataire autoproclamé et même le cabotin Mr. Peanutbutter, rival et héros toujours populaire d’une sitcom analogue. À Los Angeles où humains et animaux de tout poil cohabitent, BoJack essaie tant bien que mal de raviver sa gloire passée.",
+        synopsis: "Vingt ans après avoir crevé le petit écran dans la sitcom culte Horsin’ Around, l’étalon le plus célèbre des années 1990 a perdu de sa superbe. Alcoolique et déprimé, BoJack vit dans une garçonnière à Hollywood et traîne son amertume dans des pulls bigarrés. Heureusement (ou malheureusement ?), le bourrin peut compter sur des amis parfois un brin encombrants : Diane NGuyen, nègre littéraire chargé d’écrire son autobiographie, Princess Carolyn, tour à tour ex-petite amie et agent attitrée, Todd Chavez, colocataire autoproclamé et même le cabotin Mr. Peanutbutter, rival et héros toujours populaire d’une sitcom analogue. À Los Angeles où humains et animaux de tout poil cohabitent, BoJack essaie tant bien que mal de raviver sa gloire passée.",
         avis: "Drôle, émouvant, intelligent."
+      },
+      460: { 
+        titre: "Calls",
+        image: "calls.jpg",
+        genre: "drame, thriller",
+        saisons: "3",
+        episodes: "27",
+        realisateur: "Timothée Hochet",
+        acteurs: "érémie Renier, Camille Cottin, Baptiste Lecaplain, Charlotte Le Bon",
+        synopsis: "Des enregistrements sonores, issus de la boîte noire d'un avion, de cassettes d'un magnétophone, de messages laissés sur un répondeur ou d'appels à Police secours, permettent de témoigner de tragiques événements survenus à différentes époques, mais tous connectés d'une manière ou d'une autre à une Apocalypse imminente.",
+        avis: "Un concept original."
       },
       500: { 
         titre: "Game of Thrones",
