@@ -797,6 +797,17 @@ const films = {
       "Un journaliste est tué dans sa voiture sur la route de son travail. L'inspecteur Kras apprend de son informateur Cornelius, diseur de bonne aventure, qu'il voit le crime mais pas son coupable. Pendant ce temps, Henry Travers, riche industriel américain, s'installe à l'hôtel Luxor, aménagé par les nazis pendant la Seconde Guerre mondiale pour espionner les chambres. Il rencontre Marion Menil qui est menacée par son mari. Hieronymus B. Mistelzweig, supposé représentant, qui est également logé à l'hôtel, semble toujours sur ses gardes. Ces différents personnages devront s'unir pour éclaircir l'apparent retour du Dr Mabuse, disparu depuis longtemps...",
     avis: "Le dernier volet de la trilogie de Fritz Lang."
   },
+  5105: {
+    titre: "Le Gentleman d'Epsom",
+    image: "le_gentleman_d_epsom.jpeg",
+    genre: "comédie",
+    annee: "1962",
+    realisateur: "Gilles Grangier",
+    acteurs: "Jean Gabin, Jean Lefebvre, Louis de Funès, Paul Frankeur",
+    synopsis:
+      "Richard Briand-Charmery est connu sur tous les champs de courses comme « le Commandant ». À l'hippodrome de Longchamp avec Charly, un garçon d'écurie, il escroque ceux auxquels il vend des tuyaux. Un boucher, un patron de boîte de nuit, Arthur son ami... puis le restaurateur Gaspard Ripeux. Les jours de vaches maigres, il va déjeuner chez sa sœur Thérèse, subissant stoïquement les sarcasmes de son beau-frère Hubert, riche industriel.",
+    avis: "Les dialogues de Michel Auudiard sont un régal. Jean Gabin est formidable."
+  },
   5110: {
     titre: "Le Hobbit : un voyage inattendu",
     image: "un_voyage_inattendu.jpg",
