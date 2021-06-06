@@ -435,7 +435,7 @@ const quotes = [
   },
   {
     replique:
-      "Pas de pierres, pas de construction. Pas de construction, pas de palais. Pas de palais, pas de palais",
+      "Pas de pierres, pas de construction. Pas de construction, pas de palais. Pas de palais, pas de palais.",
     personnage: "Gérard Darmon",
     film: "Astérix et Obélix : Mission Cléopâtre"
   },
@@ -532,6 +532,11 @@ const quotes = [
     replique: "Vous vous couchez à l'heure des poules ? - Eh oui, pour me lever à celle des chevaux.",
     personnage: "Paul Frankeur et Jean Gabin",
     film: "Le Gentleman d'Epsom"
+  },
+  {
+    replique: "SSSplendide !!!",
+    personnage: "Jim Carrey",
+    film: "The Mask"
   }
 ];
 
