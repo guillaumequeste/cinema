@@ -537,6 +537,11 @@ const quotes = [
     replique: "SSSplendide !!!",
     personnage: "Jim Carrey",
     film: "The Mask"
+  },
+  {
+    replique: "Si la connerie n'est pas remboursée par les assurances sociales, vous finirez sur la paille.",
+    personnage: "Jean-Paul Belmondo",
+    film: "Un singe en hiver"
   }
 ];
 

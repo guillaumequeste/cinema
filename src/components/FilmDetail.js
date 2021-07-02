@@ -806,7 +806,8 @@ const films = {
     acteurs: "Jean Gabin, Jean Lefebvre, Louis de Funès, Paul Frankeur",
     synopsis:
       "Richard Briand-Charmery est connu sur tous les champs de courses comme « le Commandant ». À l'hippodrome de Longchamp avec Charly, un garçon d'écurie, il escroque ceux auxquels il vend des tuyaux. Un boucher, un patron de boîte de nuit, Arthur son ami... puis le restaurateur Gaspard Ripeux. Les jours de vaches maigres, il va déjeuner chez sa sœur Thérèse, subissant stoïquement les sarcasmes de son beau-frère Hubert, riche industriel.",
-    avis: "Les dialogues de Michel Auudiard sont un régal. Jean Gabin est formidable."
+    avis:
+      "Les dialogues de Michel Auudiard sont un régal. Jean Gabin est formidable."
   },
   5110: {
     titre: "Le Hobbit : un voyage inattendu",
@@ -1749,6 +1750,17 @@ const films = {
     synopsis:
       "Un chat nommé Dino mène une double vie : il passe ses journées avec Zoé, la fille de Jeanne, commissaire de police, mais la nuit il accompagne un voleur, Nico, sur les toits de Paris. Alors que la mère de Zoé enquête sur les cambriolages nocturnes, un autre truand, Victor Costa, kidnappe la fillette.",
     avis: "Un film d'animation sympathique dans Paris."
+  },
+  11180: {
+    titre: "Un singe en hiver",
+    image: "un_singe_en_hiver.jpeg",
+    genre: "comédie dramatique",
+    annee: "1962",
+    realisateur: "Henri Verneuil",
+    acteurs: "Jean-Paul Belmondo, Jean Gabin, Suzanne Flon, Gabrielle Dorziat",
+    synopsis:
+      "L'hôtelier d'une petite station balnéaire de Normandie a juré à sa femme de ne plus toucher à un verre d'alcool. C'était sans compter avec l'arrivée de Fouquet qui surgit avec la tentation...",
+    avis: "Verneuil - Audiard - Gabin - Belmondo"
   },
   11200: {
     titre: "Usual suspects",
