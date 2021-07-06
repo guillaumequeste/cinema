@@ -42,6 +42,17 @@ const films = {
     avis: "Casting incroyable. Bouleversant."
   },
   300: {
+    titre: "A couteaux tirés",
+    image: "a_couteaux_tires.jpeg",
+    genre: "policier, drame, comédie",
+    annee: "2019",
+    realisateur: "Rian Johnson",
+    acteurs: "Daniel Craig, Ana de Armas, Chris Evans, Christopher Plummer",
+    synopsis:
+      "Célèbre auteur de polars, Harlan Thrombey est retrouvé mort dans sa somptueuse propriété, le soir de ses 85 ans. L’esprit affûté et la mine débonnaire, le détective Benoit Blanc est alors engagé par un commanditaire anonyme afin d’élucider l’affaire. Mais entre la famille d’Harlan qui s'entre-déchire et son personnel qui lui reste dévoué, Blanc plonge dans les méandres d’une enquête mouvementée, mêlant mensonges et fausses pistes, où les rebondissements s'enchaînent à un rythme effréné jusqu'à la toute dernière minute.",
+    avis: "L'esprit Cluedo !"
+  },
+  320: {
     titre: "American History X",
     image: "american_history_x.jpg",
     genre: "drame",
@@ -796,6 +807,17 @@ const films = {
     synopsis:
       "Un journaliste est tué dans sa voiture sur la route de son travail. L'inspecteur Kras apprend de son informateur Cornelius, diseur de bonne aventure, qu'il voit le crime mais pas son coupable. Pendant ce temps, Henry Travers, riche industriel américain, s'installe à l'hôtel Luxor, aménagé par les nazis pendant la Seconde Guerre mondiale pour espionner les chambres. Il rencontre Marion Menil qui est menacée par son mari. Hieronymus B. Mistelzweig, supposé représentant, qui est également logé à l'hôtel, semble toujours sur ses gardes. Ces différents personnages devront s'unir pour éclaircir l'apparent retour du Dr Mabuse, disparu depuis longtemps...",
     avis: "Le dernier volet de la trilogie de Fritz Lang."
+  },
+  5103: {
+    titre: "Le drapeau noir flotte sur la marmite",
+    image: "drapeau.jpeg",
+    genre: "comédie",
+    annee: "1971",
+    realisateur: "Michel Audiard",
+    acteurs: "Jean Gabin, Jacques Marin, Claude Piéplu, Eric Damain",
+    synopsis:
+      "Victor, épicier et patron tyranique ne cesse de parler à sa famille de son passé de marin, bien que ceux-ci ne l'ont jamais cru. Lorsque son neveu gagne un concours de maquette de bateau et est chargé d'en construire un à échelle réelle, Victor va tenter de s'imposer comme le patron de la petite équipe...",
+    avis: "Gabin - Audiard"
   },
   5105: {
     titre: "Le Gentleman d'Epsom",
