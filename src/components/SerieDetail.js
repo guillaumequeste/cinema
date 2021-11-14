@@ -263,7 +263,7 @@ const series = {
         image: "munch.jpg",
         genre: "drame, policier",
         saisons: "3",
-        episodes: "26",
+        episodes: "32",
         realisateur: "Valérie Tong-Cuong, Marie Vinoy, Marie-Alice Gadea",
         acteurs: "Isabelle Nanty, Lucien Jean-Baptiste, Aurélien Wiik, Paloma Coquant, Tom Villa",
         synopsis: "Munch est une avocate hors normes, qui s’attache à défendre des innocents que tout accuse. Face à une erreur judiciaire elle est capable de franchir toutes les lignes, même celles de l’illégalité, pour prouver leur innocence.",
