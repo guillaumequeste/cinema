@@ -206,6 +206,18 @@ const films = {
       "L'histoire de Blanche-Neige revue par un réalisateur de publicités. Visuellement magnifique."
   },
   1200: {
+    titre: "Certains l'aiment chaud",
+    image: "certains.jpeg",
+    genre: "comédie, romance",
+    annee: "1959",
+    realisateur: "Billy Wilder",
+    acteurs: "Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft",
+    synopsis:
+      "Deux musiciens de jazz au chômage, mêlés involontairement à un règlement de comptes entre gangsters, se transforment en musiciennes pour leur échapper. Ils partent en Floride avec un orchestre féminin. Ils tombent illico amoureux d'une ravissante et blonde créature qui veut épouser un milliardaire.",
+    avis:
+      "Un classique."
+  },
+  1230: {
     titre: "Charade",
     image: "charade.jpg",
     genre: "policier, romance",
@@ -1271,6 +1283,17 @@ const films = {
     synopsis:
       "Antoine Beretto, ancien gangster, s'est reconverti en tant qu'armateur sur la Côte d'Azur. Un jour, deux anciens complices lui rendent visite. Ceux-ci lui demandent un bateau en direction de l'Italie ainsi qu'un prêt de quatre millions de francs, somme qu'il pourra récupérer auprès de Léonard Michalon. Or ce dernier, en parfait imbécile, s'est attiré les foudres du \"Colonel\", militaire britannique à la tête d'un gang. Antoine et son ami Jeff devront alors, malgré eux, protéger Michalon afin de récupérer l'argent.",
     avis: "Une géniale comédie des années 60."
+  },
+  8020: {
+    titre: "Niagara",
+    image: "niagara.jpeg",
+    genre: "drame, thriller",
+    annee: "1953",
+    realisateur: "Henry Hathaway",
+    acteurs: "Marilyn Monroe, Joseph Cotten, Jean Peters, Casey Adams",
+    synopsis:
+      "ARay et Polly Cutler sont en séjour à Niagara Falls. Ils font la connaissance de George et Rose Loomis, un couple au bord de la rupture. Rose annonce la disparition de son mari aux Cutler et a la désagréable surprise de reconnaître à la morgue le cadavre de son amant.",
+    avis: "Marilyn Monroe."
   },
   8030: {
     titre: "Nous irons à Monte-Carlo",
