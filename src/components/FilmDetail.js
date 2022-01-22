@@ -1353,6 +1353,18 @@ const films = {
       "Deux bandes rivales, les Baxter, trafiquants d'armes, et les Rojo, qui font de la contrebande d'alcool, se disputent la suprématie et la domination de la ville de San Miguel, au sud de la frontière américano-mexicaine. Un étranger, vêtu d'un poncho, arrive à dos de mulet dans cette petite ville et s'immisce entre les deux bandes. Proposant d'abord ses services aux Rojo, l'étranger va très vite tirer profit des deux camps à la fois, à la grande joie du fabricant de cercueils Piripero.",
     avis: "Le premier film de la trilogie du dollar."
   },
+  8170: {
+    titre: "Primaire",
+    image: "primaire.jpg",
+    genre: "drame",
+    annee: "2016",
+    realisateur: "Yann Coridian, Hélène Angel",
+    acteurs:
+      "Sara Forestier, Vincent Elbaz, Patrick d'Assumçao, Guilaine Londez",
+    synopsis:
+      "Florence est une professeure des écoles dévouée à ses élèves. Quand elle rencontre le petit Sacha, un enfant en difficulté, elle va tout faire pour le sauver, quitte à délaisser sa vie de mère, de femme et même remettre en cause sa vocation. Florence va réaliser peu à peu qu’il n’y a pas d’âge pour apprendre...",
+    avis: "Sara Forestier est formidable."
+  },
   8200: {
     titre: "Pulp Fiction",
     image: "pulp_fiction.jpg",
