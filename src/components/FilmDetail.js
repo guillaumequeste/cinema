@@ -1551,6 +1551,17 @@ const films = {
       "10 ans se sont écoulés depuis les terribles meurtres commis par Ghostface. Sidney Prescott est parvenue à tourner la page mais c’est tout de même avec appréhension qu’elle retourne à Woodsboro pour le lancement de son premier roman. Ses retrouvailles avec sa cousine Jill ainsi qu’avec le duo de choc Dewey et Gale seront de courtes durées : Ghostface est de retour mais cette fois-ci les règles vont changer.",
     avis: "Le dernier film de la quadrilogie."
   },
+  9650: {
+    titre: "Scream 5 (Scream)",
+    image: "scream_5.jpg",
+    genre: "épouvante - horreur, thriller",
+    annee: "2022",
+    realisateur: "Matt Bettinelli-Olpin, Tyler Gillett",
+    acteurs: "Neve Campbell, David Arquette, Courteney Cox, Melissa Barrera",
+    synopsis:
+      "Vingt-cinq ans après que la paisible ville de Woodsboro a été frappée par une série de meurtres violents, un nouveau tueur revêt le masque de Ghostface et prend pour cible un groupe d'adolescents. Il est déterminé à faire ressurgir les sombres secrets du passé.",
+    avis: "La suite 15 ans après."
+  },
   9700: {
     titre: "Se souvenir des belles choses",
     image: "se_souvenir.jpg",

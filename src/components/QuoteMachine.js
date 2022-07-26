@@ -542,6 +542,16 @@ const quotes = [
     replique: "Si la connerie n'est pas remboursée par les assurances sociales, vous finirez sur la paille.",
     personnage: "Jean-Paul Belmondo",
     film: "Un singe en hiver"
+  },
+  {
+    replique: "T'es comme le H de Hawaï, tu sers à rien.",
+    personnage: "Jean Dujardin",
+    film: "Brice de Nice"
+  },
+  {
+    replique: "Putain fais gaffe, c'est un immobile de Koendelietzsche, c'est hyper fragile ça !",
+    personnage: "Pascal Légitimus",
+    film: "Les trois frères"
   }
 ];
 
