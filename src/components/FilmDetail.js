@@ -1737,6 +1737,17 @@ const films = {
       "Mickey et Pat travaillent sur un bateau de marchandises et font un voyage mouvementé sur une rivière peu paisible avec Minnie comme unique passager en dehors des animaux de ferme.",
     avis: "Le premier film d'animation où le son est synchronisé avec l'image."
   },
+  10790: {
+    titre: "The Batman",
+    image: "the_batman.jpg",
+    genre: "action, policier, thriller",
+    annee: "2022",
+    realisateur: "Matt Reeves",
+    acteurs: "Robert Pattinson, Zoë Kravitz, Paul Dano",
+    synopsis:
+      "Deux années à arpenter les rues en tant que Batman et à insuffler la peur chez les criminels ont mené Bruce Wayne au coeur des ténèbres de Gotham City où règnent abus de pouvoir et corruption.",
+    avis: "Le plus noir des Batman."
+  },
   10800: {
     titre: "The Dark Knight, le Chevalier Noir",
     image: "the_dark_knight.jpg",

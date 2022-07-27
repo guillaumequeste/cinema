@@ -53,10 +53,9 @@ class ListeSeries extends Component {
                     <input placeholder="Rechercher une série" onChange={this.onchange} className="inputSearchBar"/>
                 </div>
                 <div className="bodyListeSeries">
-                    {filteredSeries.map(({id, name}) => (
+                    {filteredSeries.map(({id, name, image}) => (
                         <Link to={`/serie/${id}`} 
-                                key={id}
-                                className="itemListeSeries lien">{name}</Link>
+                                key={id}><img src={require(`../img/${image}`)} alt={name} className="imgListeSeries"/></Link>
                     ))}
                 </div>
                 <Footer />

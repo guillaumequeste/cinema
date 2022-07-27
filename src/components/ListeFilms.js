@@ -53,10 +53,9 @@ class ListeFilms extends Component {
                     <input placeholder="Rechercher un film" onChange={this.onchange} className="inputSearchBar"/>
                 </div>
                 <div className="bodyListeFilms">
-                    {filteredFilms.map(({id, name}) => (
+                    {filteredFilms.map(({id, name, image}) => (
                         <Link to={`/film/${id}`} 
-                                key={id}
-                                className="itemListeFilms lien">{name}</Link>
+                                key={id}><img src={require(`../img/${image}`)} alt={name} className="imgListeFilms"/></Link>
                     ))}
                 </div>
                 <Footer />

@@ -428,6 +428,32 @@
     "avis": "Brilliant."
 },
 {
+    "id": "2175",
+    "name": "The Boys",
+    "titre": "The Boys",
+    "image": "the_boys.jpg",
+    "genre": "drame, science-fiction, action",
+    "saisons": "3",
+    "episodes": "24",
+    "realisateur": "Eric Kripke",
+    "acteurs": "Karl Urban, Jack Quaid, Laz Alonso, Tomer Kapon, Eribn Moriarty",
+    "synopsis": "Dans un monde fictif où les super-héros se sont laissés corrompre par la célébrité et la gloire et ont peu à peu révélé la part sombre de leur personnalité, une équipe de justiciers qui se fait appeler 'The Boys' décide de passer à l'action et d'abattre ces super-héros autrefois appréciés de tous.",
+    "avis": "Hyper trash."
+},
+{
+    "id": "2180",
+    "name": "The Boys : Diabolical",
+    "titre": "The Boys : Diabolical",
+    "image": "the_boys.jpg",
+    "genre": "drame, science-fiction, action",
+    "saisons": "1",
+    "episodes": "8",
+    "realisateur": "Eric Kripke",
+    "acteurs": "Antony Starr, Awkwafina, Christian Slater, Andy Samberg",
+    "synopsis": "Série anthologique animée dans le même univers que la série de super-héros 'The Boys', avec un grain de folie en plus.",
+    "avis": "Trash."
+},
+{
     "id": "2200",
     "name": "The Mandalorian",
     "titre": "The Mandalorian",
