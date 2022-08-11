@@ -981,6 +981,17 @@ const films = {
     synopsis: "L'adaptation déjantée du conte Le petit Poucet.",
     avis: "Omar et Fred. Délirant."
   },
+  5670: {
+    titre: "Le président",
+    image: "le_president.jpg",
+    genre: "thriller",
+    annee: "1961",
+    realisateur: "Henri Verneuil",
+    acteurs:
+      "Jean Gabin, Bernard Blier, Renée Faure, Henri Crémieux",
+    synopsis: "Agé de 73 ans, l'ex président français Emile Beaufort joue toujours un rôle central dans la vie politique du pays. La rédaction de ses mémoires lui permet de revenir sur son parcours et d'évoquer ses relations avec Philippe Chalamont, sur le point de devenir président du conseil.",
+    avis: "Jean Gabin, les dialogues de Michel Audiard. Un régal."
+  },
   5700: {
     titre: "Le projet Blair Witch",
     image: "le_projet_blair_witch.jpg",
@@ -1250,6 +1261,18 @@ const films = {
     synopsis:
       "Durant l'Occupation, un homme a trahi un réseau, provoquant l'éxécution du chef. Un groupe de personnes est réuni pour démasquer le traître.",
     avis: "Un casting incroyable."
+  },
+  7870: {
+    titre: "Mort sur le Nil",
+    image: "mort_sur_le_nil.jpg",
+    genre: "policier, thriller",
+    annee: "2022",
+    realisateur: "Kenneth Brannagh",
+    acteurs:
+      "Kenneth Brannagh, Gal Gadot, Tom Bateman, Annette Bening",
+    synopsis:
+      "Au cours d’une luxueuse croisière sur le Nil, ce qui devait être une lune de miel idyllique se conclut par la mort brutale de la jeune mariée. Ce crime sonne la fin des vacances pour le détective Hercule Poirot. A bord en tant que passager, il se voit confier l’enquête par le capitaine du bateau. Et dans cette sombre affaire d’amour obsessionnel aux conséquences meurtrières, ce ne sont pas les suspects qui manquent ! S’ensuivent une série de rebondissements et de retournements de situation qui, sur fond de paysages grandioses, vont peu à peu déstabiliser les certitudes de chacun jusqu’à l’incroyable dénouement !",
+    avis: "Superbe."
   },
   7900: {
     titre: "Mulholland Drive",

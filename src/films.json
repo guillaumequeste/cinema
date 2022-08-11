@@ -424,6 +424,11 @@
     "image" : "le_pas_petit_poucet.jpg"
 },
 {
+    "id": "5670",
+    "name": "Le président",
+    "image" : "le_president.jpg"
+},
+{
     "id": "5700",
     "name": "Le projet Blair Witch",
     "image" : "le_projet_blair_witch.jpg"
@@ -537,6 +542,11 @@
     "id": "7830",
     "name": "Marie-Octobre",
     "image" : "marie_octobre.jpeg"
+},
+{
+    "id": "7870",
+    "name": "Mort sur le Nil",
+    "image" : "mort_sur_le_nil.jpg"
 },
 {
     "id": "7900",
