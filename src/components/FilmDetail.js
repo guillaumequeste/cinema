@@ -1388,6 +1388,18 @@ const films = {
       "Florence est une professeure des écoles dévouée à ses élèves. Quand elle rencontre le petit Sacha, un enfant en difficulté, elle va tout faire pour le sauver, quitte à délaisser sa vie de mère, de femme et même remettre en cause sa vocation. Florence va réaliser peu à peu qu’il n’y a pas d’âge pour apprendre...",
     avis: "Sara Forestier est formidable."
   },
+  8180: {
+    titre: "Promising young woman",
+    image: "promising_young_woman.jpg",
+    genre: "thriller, drame, comédie",
+    annee: "2021",
+    realisateur: "Emerald Fennell",
+    acteurs:
+      "Carey Mulligan, Bo Burnham, Alison Brie, Clancy Brown",
+    synopsis:
+      "Tout le monde s’entendait pour dire que Cassie était une jeune femme pleine d’avenir…jusqu’à ce qu’un évènement inattendu ne vienne tout bouleverser. Mais rien dans la vie de Cassie n’est en fait conforme aux apparences : elle est aussi intelligente que rusée, séduisante que calculatrice et mène une double vie dès la nuit tombée. Au cours de cette aventure passionnante, une rencontre inattendue va donner l’opportunité à Cassie de racheter les erreurs de son passé.",
+    avis: "Film coup de poing."
+  },
   8200: {
     titre: "Pulp Fiction",
     image: "pulp_fiction.jpg",
