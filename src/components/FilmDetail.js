@@ -18,7 +18,19 @@ const films = {
     avis:
       "J'ai vu ce film sans avoir lu le synopsis... glaçant. Le film est en noir et blanc et rend l'atmosphère encore plus oppressante."
   },
-  101: {
+  125: {
+    titre: "125 rue Montmartre",
+    image: "125_rue_montmartre.jpg",
+    genre: "policiet, drame, judiciaire",
+    annee: "1959",
+    realisateur: "Gilles Grangier",
+    acteurs: "Lino Ventura, Andrea Parisy, Robert Hirsch, Dora Doll",
+    synopsis:
+      "Alors qu'il tente de se suicider en se jetant dans la Seine, Didier est secouru par Pascal, passant par là par pur hasard. Les deux hommes ne tardent pas à se lier d'amitié mais alors que Didier recommence à retrouver goût à la vie, Pascal se retrouve impliqué dans une affaire de meurtre ! C'est d'ailleurs \"à cause\" de Didier que Pascal est soupçonné...",
+    avis:
+      "Un film policier avec les dialogues de Michel Audiard."
+  },
+  187: {
     titre: "187 : Code meurtre",
     image: "187_code_meurtre.jpg",
     genre: "drame, thriller",
@@ -228,6 +240,17 @@ const films = {
       "Aux sports d’hiver, une Américaine tombe amoureuse d’un séduisant célibataire. De retour à Paris, elle apprend le meurtre de son mari et elle va être poursuivie par d’étranges personnages, à la recherche d'un magot caché par la victime et dont elle ignore tout...",
     avis: "Une comédie policière dans le Paris des années 60."
   },
+  1240: {
+    titre: "Charlotte",
+    image: "charlotte.jpg",
+    genre: "animation, drame, historique, biopic",
+    annee: "2022",
+    realisateur: "Eric Warin, Tahir Rana",
+    acteurs: "Marion Catillard, Annie le Youdec, Romain Duris, Philippe Peythieu",
+    synopsis:
+      "Charlotte Salomon est une jeune peintre juive allemande, dont le destin bascule à la veille de la Seconde Guerre mondiale. Face au tourbillon de l’histoire et à la révélation d’un secret de famille, seul un acte extraordinaire pourra la sauver. Elle entame alors l’oeuvre de sa vie...",
+    avis: "L'histoire vraie de Charlotte Salomon"
+  },
   1250: {
     titre: "Comment voler un million de dollars",
     image: "comment_voler_un_million_de_dollars.jpg",
@@ -414,6 +437,18 @@ const films = {
       "Nick Carraway est un jeune homme du Midwest proche de la trentaine. Il quitte sa région pour travailler dans la finance à New York. Il emménage alors à côté de Jay Gatsby, dont l'immense maison occulte celle de Nick. De plus, Gatsby donne fréquemment de somptueuses et importantes réceptions. Mais Nick ignore tout de cet homme, sujet des plus folles rumeurs.",
     avis:
       "Leonardo DiCaprio incarne un personnage qui fait les choses en (très) grand."
+  },
+  2050: {
+    titre: "Glass Onion : une histoire à couteaux tirés",
+    image: "glass_onion.jpg",
+    genre: "policier, comédie",
+    annee: "2022",
+    realisateur: "Rian Johnson",
+    acteurs: "Daniel, Craig, Edward Norton, Janelle Monae, Kathryn Hahn",
+    synopsis:
+      "Direction la Grèce pour le célèbre détective Benoit Blanc, qui doit élucider un mystère entourant un milliardaire de la technologie et son groupe d'amis hauts en couleur.",
+    avis:
+      "Un Cludeo haut en couleurs."
   },
   2100: {
     titre: "Gravity",

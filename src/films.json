@@ -4,7 +4,12 @@
     "image" : "13_tzameti.jpg"
 },
 {
-    "id": "101",
+    "id": "125",
+    "name": "125 rue Montmartre",
+    "image" : "125_rue_montmartre.jpg"
+},
+{
+    "id": "187",
     "name": "187 : Code meurtre",
     "image" : "187_code_meurtre.jpg"
 },
@@ -94,6 +99,11 @@
     "image" : "charade.jpg"
 },
 {
+    "id": "1240",
+    "name": "Charlotte",
+    "image" : "charlotte.jpg"
+},
+{
     "id": "1250",
     "name": "Comment voler un million de dollars",
     "image" : "comment_voler_un_million_de_dollars.jpg"
@@ -172,6 +182,11 @@
     "id": "2000",
     "name": "Gatsby le Magnifique",
     "image" : "gatsby.jpg"
+},
+{
+    "id": "2050",
+    "name": "Glass Onion : une histoire à couteaux tirés",
+    "image" : "glass_onion.jpg"
 },
 {
     "id": "2100",
