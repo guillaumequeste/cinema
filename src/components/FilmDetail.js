@@ -217,6 +217,18 @@ const films = {
     avis:
       "L'histoire de Blanche-Neige revue par un réalisateur de publicités. Visuellement magnifique."
   },
+  1180: {
+    titre: "Bullet Train",
+    image: "bullet_train.jpg",
+    genre: "action, thriller",
+    annee: "2022",
+    realisateur: "David Leitch",
+    acteurs: "Brad Pitt, Aaron Taylor-Johnson, Joey King, Brian Tyree Henry",
+    synopsis:
+      "Coccinelle est un assassin malchanceux et particulièrement déterminé à accomplir sa nouvelle mission paisiblement après que trop d'entre elles aient déraillé. Mais le destin en a décidé autrement et l'embarque dans le train le plus rapide au monde aux côtés d'adversaires redoutables qui ont tous un point commun, mais dont les intérêts divergent radicalement... Il doit alors tenter par tous les moyens de descendre du train.",
+    avis:
+      "Génial."
+  },
   1200: {
     titre: "Certains l'aiment chaud",
     image: "certains.jpeg",
@@ -249,7 +261,7 @@ const films = {
     acteurs: "Marion Catillard, Annie le Youdec, Romain Duris, Philippe Peythieu",
     synopsis:
       "Charlotte Salomon est une jeune peintre juive allemande, dont le destin bascule à la veille de la Seconde Guerre mondiale. Face au tourbillon de l’histoire et à la révélation d’un secret de famille, seul un acte extraordinaire pourra la sauver. Elle entame alors l’oeuvre de sa vie...",
-    avis: "L'histoire vraie de Charlotte Salomon"
+    avis: "L'histoire vraie de Charlotte Salomon."
   },
   1250: {
     titre: "Comment voler un million de dollars",
