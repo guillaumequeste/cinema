@@ -1877,6 +1877,17 @@ const films = {
       "Dans une Amérique profondément sauvage, Hugh Glass, un trappeur, est attaqué par un ours et grièvement blessé. Abandonné par ses équipiers, il est laissé pour mort. Mais Glass refuse de mourir. Seul, armé de sa volonté et porté par l’amour qu’il voue à sa femme et à leur fils, Glass entreprend un voyage de plus de 300 km dans un environnement hostile, sur la piste de l’homme qui l’a trahi. Sa soif de vengeance va se transformer en une lutte héroïque pour braver tous les obstacles, revenir chez lui et trouver la rédemption.",
     avis: "Les paysages sont magnifiques. Leonardo DiCaprio est extraordinaire."
   },
+  10980: {
+    titre: "Tueurs de dames",
+    image: "tueurs_de_dames.jpg",
+    genre: "comédie, policier",
+    annee: "1955",
+    realisateur: "Alexander Mackendrick",
+    acteurs: "Katie Johnson, Alec Guinness, Danny Green, Peter Sellers",
+    synopsis:
+      "Le commissariat de police de la petite ville de Richmond a l'habitude de la visite de Margaret Wilberforce, veuve d'un officier de marine, complètement mythomane. Un jour, le digne professeur Marcus loue une chambre à la vieille dame où, tous les soirs, il répète avec ses amis musiciens un menuet de Boccherini. En réalité, ils préparent le hold-up du siècle.",
+    avis: "So british."
+  },
   11000: {
     titre: "Turf",
     image: "turf.jpg",
