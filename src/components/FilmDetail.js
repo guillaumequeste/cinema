@@ -630,6 +630,17 @@ const films = {
       "Voulant assurer le triomphe de la médecine qu’il fait passer avant l’intérêt des malades, le docteur Knock arrive à Saint-Maurice pour succéder au docteur Parpalaid dont la clientèle est rare, l’état de santé du pays étant excellent. Loin de se décourager, Knock fait comprendre à chaque patient qui se presse à ses consultations gratuites, que tout bien portant est un malade qui s’ignore. Le résultat ne se fait pas attendre et tout le village se retrouve au lit....",
     avis: "Du grand Louis Jouvet."
   },
+  3480: {
+    titre: "L'affaire Thomas Crown",
+    image: "l_affaire_thomas_crown.jpg",
+    genre: "policier, thriller, romance",
+    annee: "1968",
+    realisateur: "Norman Jewison",
+    acteurs: "Steve McQueen, Faye Dunaway, Jack Weston, Paul Burke",
+    synopsis:
+      "Thomas Crown, séduisant banquier divorcé et amateur de sports, estime que sa vie d'homme riche ne lui procure plus aucune satisfaction. Afin de ressentir à nouveau le frisson de l'aventure, il prépare minutieusement, avec la complicité de cinq hommes de main qui ne se connaissent pas et qui ne se rencontreront qu'une fois, l'audacieux braquage de sa propre banque, ce qui laissera la police perplexe.",
+    avis: "Steve McQueen, Faye Dunaway."
+  },
   3500: {
     titre: "L'étrange Noël de Monsieur Jack",
     image: "jack.jpg",
