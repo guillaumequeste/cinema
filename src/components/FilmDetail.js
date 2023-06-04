@@ -901,6 +901,18 @@ const films = {
     avis:
       "Les dialogues de Michel Auudiard sont un régal. Jean Gabin est formidable."
   },
+  5108: {
+    titre: "Le Grnad National",
+    image: "le_grand_national.jfif",
+    genre: "drame, famille",
+    annee: "1944",
+    realisateur: "Clarence Brown",
+    acteurs: "Elizabeth Taylor, Mickey Rooney, Donald Crisp, Anne Revere",
+    synopsis:
+      "En Angleterre, à la fin des années 1940, Velvet Brown est une jeune fille de 12 ans, passionnée d'équitation. Elle rencontre Mi, un vagabond, ancien jockey, au passé très mystérieux. Malgré la défiance qu’inspire ce garçon, Velvet réussit à le faire embaucher dans sa famille. Jusqu'au jour où elle gagne à la loterie un cheval d’exception. Elle aspire alors à réaliser un vœu très ambitieux : l'entraîner pour participer au Grand National, une célèbre course hippique...",
+    avis:
+      "Elizabeth Taylor est formidable."
+  },
   5110: {
     titre: "Le Hobbit : un voyage inattendu",
     image: "un_voyage_inattendu.jpg",
