@@ -1842,6 +1842,17 @@ const films = {
       "Mickey et Pat travaillent sur un bateau de marchandises et font un voyage mouvementé sur une rivière peu paisible avec Minnie comme unique passager en dehors des animaux de ferme.",
     avis: "Le premier film d'animation où le son est synchronisé avec l'image."
   },
+  10780: {
+    titre: "Tempête",
+    image: "tempete.jfif",
+    genre: "comédie dramatique, famille, drame, comédie",
+    annee: "2022",
+    realisateur: "Christian Duguay",
+    acteurs: "Mélanie Laurent, Pio Marmaï, Kacey Mottet Klein, Carmen Kassovitz",
+    synopsis:
+      "Née dans le haras de ses parents, Zoé a grandi au milieu des chevaux et n’a qu’un rêve : devenir jockey ! Tempête, une pouliche qu’elle voit naître, va devenir son alter ego. Mais un soir d'orage, Tempête, affolée, renverse Zoé et vient briser son rêve. Elle va pourtant s’accrocher et tenter l'impossible pour renouer avec son destin.",
+    avis: "De bons sentiments, de belles images."
+  },
   10790: {
     titre: "The Batman",
     image: "the_batman.jpg",
