@@ -1178,6 +1178,17 @@ const films = {
       "Peu après le débarquement de Normandie, en juin 1944, l'histoire d'un médecin vengeant la mort de sa femme et de sa fille, sauvagement assassinées par un détachement de soldats SS stationnés dans le château du petit hameau où elles s'étaient réfugiées.",
     avis: "Philippe Noiret - Romy Schneider"
   },
+  6650: {
+    titre: "Le voleur de bicyclette",
+    image: "le_voleur_de_bicyclette.jpg",
+    genre: "drame",
+    annee: "1948",
+    realisateur: "Vittorio de Sica",
+    acteurs: "Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Vittorio Antonucci",
+    synopsis:
+      "Chômeur depuis deux ans, Antonio trouve un emploi de colleur d'affiches, mais il se fait voler sa bicyclette, outil indispensable dans le cadre de son nouveau métier.",
+    avis: "L'Italie d'après-guerre. Bouleversant."
+  },
   6700: {
     titre: "Léon",
     image: "leon.jpg",
@@ -1666,6 +1677,17 @@ const films = {
     synopsis:
       "Vingt-cinq ans après que la paisible ville de Woodsboro a été frappée par une série de meurtres violents, un nouveau tueur revêt le masque de Ghostface et prend pour cible un groupe d'adolescents. Il est déterminé à faire ressurgir les sombres secrets du passé.",
     avis: "La suite 15 ans après."
+  },
+  9660: {
+    titre: "Scream 6",
+    image: "scream_6.jpg",
+    genre: "épouvante - horreur",
+    annee: "2023",
+    realisateur: "Matt Bettinelli-Olpin, Tyler Gillett",
+    acteurs: "Melissa Barrera, Jenna Ortega, Courteney Cox, Jasmin Savoy Brown",
+    synopsis:
+      "Après avoir frappé à trois reprises à Woodsboro, après avoir terrorisé le campus de Windsor et les studios d’Hollywood, Ghostface a décidé de sévir dans Big Apple, mais dans une ville aussi grande que New-York personne ne vous entendra crier…",
+    avis: "Le sixième épisode."
   },
   9700: {
     titre: "Se souvenir des belles choses",

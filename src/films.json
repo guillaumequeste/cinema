@@ -509,6 +509,11 @@
     "image" : "le_vieux_fusil.jpg"
 },
 {
+    "id": "6650",
+    "name": "Le voleur de bicyclette",
+    "image" : "le_voleur_de_bicyclette.jpg"
+},
+{
     "id": "6700",
     "name": "Léon",
     "image" : "leon.jpg"
@@ -717,6 +722,11 @@
     "id": "9650",
     "name": "Scream 5 (Scream)",
     "image" : "scream_5.jpg"
+},
+{
+    "id": "9660",
+    "name": "Scream 6",
+    "image" : "scream_6.jpg"
 },
 {
     "id": "9700",
