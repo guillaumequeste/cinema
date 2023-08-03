@@ -129,6 +129,11 @@
     "image" : "diamants_sur_canape.jpg"
 },
 {
+    "id": "1315",
+    "name": "Dilili à Paris",
+    "image" : "dilili_a_paris.jpg"
+},
+{
     "id": "1320",
     "name": "Django Unchained",
     "image" : "django_unchained.jpg"
@@ -847,6 +852,11 @@
     "id": "11100",
     "name": "Un chien andalou",
     "image" : "un_chien_andalou.jpg"
+},
+{
+    "id": "11120",
+    "name": "Une intime conviction",
+    "image" : "une_intime_conviction.jpg"
 },
 {
     "id": "11150",

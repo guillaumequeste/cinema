@@ -309,6 +309,17 @@ const films = {
       "Une croqueuse de diamants cherche à épouser un homme riche alors que son voisin écrivain s'intéresse à elle.",
     avis: "Breakfast at Tiffany's"
   },
+  1315: {
+    titre: "Dilili à Paris",
+    image: "dilili_a_paris.jpg",
+    genre: "animation",
+    annee: "2018",
+    realisateur: "Michel Ocelot",
+    acteurs: "Prunelle Charles-Ambron, Enzo Ratsito, Natalie Dessay",
+    synopsis:
+      "Dans le Paris de la Belle Époque, en compagnie d’un jeune livreur en triporteur, la petite kanake Dilili mène une enquête sur des enlèvements mystérieux de fillettes. Elle rencontre des hommes et des femmes extraordinaires, qui lui donnent des indices. Elle découvre sous terre des méchants très particuliers, les Mâles-Maîtres. Les deux amis lutteront avec entrain pour une vie active dans la lumière et le vivre-ensemble…",
+    avis: "Visuellement magnifique avec des décors en prise de vue réelle."
+  },
   1320: {
     titre: "Django Unchained",
     image: "django_unchained.jpg",
@@ -1966,6 +1977,17 @@ const films = {
     synopsis: "Tout commence sur un balcon où un homme aiguise un rasoir...",
     avis:
       "Luis Bunuel et Salvador Dali s'associent pour nous proposer un court métrage muet sonorisé surréaliste."
+  },
+  11120: {
+    titre: "Une intime conviction",
+    image: "une_intime_conviction.jpg",
+    genre: "judiciaire, thriller",
+    annee: "2018",
+    realisateur: "Antoine Raimbault",
+    acteurs: "Olivier Gourmet, Laurent Lucas, Marina Foïs",
+    synopsis: "Depuis que Nora a assisté au procès de Jacques Viguier, accusé du meurtre de sa femme, elle est persuadée de son innocence. Craignant une erreur judiciaire, elle convainc un ténor du barreau de le défendre pour son second procès, en appel. Ensemble, ils vont mener un combat acharné contre l'injustice. Mais alors que l’étau se resserre autour de celui que tous accusent, la quête de vérité de Nora vire à l’obsession.",
+    avis:
+      "Inspiré de faits réels."
   },
   11150: {
     titre: "Une vit de chat",
