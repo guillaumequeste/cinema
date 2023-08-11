@@ -798,6 +798,17 @@ const films = {
       "Dans une petite ville de province, deux amies Karen Wright et Martha Dobie dirigent une institution pour jeunes filles, aidées par Lily, la tante de Martha, une ancienne actrice excentrique. Fiancée au médecin Joe Cardin, Karen a du mal à s'engager et à laisser à Martha la direction de l'école. Mary, une élève insolente et menteuse, alors qu'elle a été punie, lance la rumeur que les deux professeurs ont une relation \"contre-nature\". Elle commence par le raconter à sa grand-mère...",
     avis: "Un film choc sur les rumeurs et la tolérance."
   },
+  4475: {
+    titre: "La traversée de Paris",
+    image: "la_traversee_de_paris.jpg",
+    genre: "comédie dramatique",
+    annee: "1956",
+    realisateur: "Claude Autant-Lara",
+    acteurs: "Jean Gabin, Bourvil, Louis de Funès, Jeannette Batti",
+    synopsis:
+      "Sous l'Occupation, Martin, brave homme au chômage, doit convoyer à l'autre bout de Paris quatre valises pleines de porc. Son acolyte habituel ayant été arrêté, il fait appel à un inconnu, Grandgil. Mais celui-ci se révèle vite incontrôlable et le trajet périlleux.",
+    avis: "Gabin-Bourvil"
+  },
   4500: {
     titre: "La vengeance dans la peau",
     image: "la_vengeance_dans_la_peau.jpg",

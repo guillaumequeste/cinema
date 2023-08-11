@@ -552,6 +552,21 @@ const quotes = [
     replique: "Putain fais gaffe, c'est un immobile de Koendelietzsche, c'est hyper fragile ça !",
     personnage: "Pascal Légitimus",
     film: "Les trois frères"
+  },
+  {
+    replique: "J'veux deux milles francs nom de Dieu Jambier !",
+    personnage: "Jean Gabin",
+    film: "La traversée de Paris"
+  },
+  {
+    replique: "Tu vas pas changer de gueule un jour toi non !?",
+    personnage: "Jean Gabin",
+    film: "La traversée de Paris"
+  },
+  {
+    replique: "Parfois ce sont les personnes que l'on imagine capables de rien qui font des choses que personne n'aurait imaginé.",
+    personnage: "Benedict Cumberbatch",
+    film: "Imitation game"
   }
 ];
 
