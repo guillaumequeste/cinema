@@ -564,6 +564,11 @@ const quotes = [
     film: "La traversée de Paris"
   },
   {
+    replique: "Salauds de pauvres !",
+    personnage: "Jean Gabin",
+    film: "La traversée de Paris"
+  },
+  {
     replique: "Parfois ce sont les personnes que l'on imagine capables de rien qui font des choses que personne n'aurait imaginé.",
     personnage: "Benedict Cumberbatch",
     film: "Imitation game"
