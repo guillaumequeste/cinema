@@ -564,6 +564,11 @@
     "image" : "les_huit_salopards.jpg"
 },
 {
+    "id": "7450",
+    "name": "Les pires",
+    "image" : "les_pires.jpg"
+},
+{
     "id": "7500",
     "name": "Les poings contre les murs",
     "image" : "les_poings_contre_les_murs.jpg"

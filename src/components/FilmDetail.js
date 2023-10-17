@@ -1306,6 +1306,18 @@ const films = {
       "Quelques années après la Guerre de Sécession, le chasseur de primes John Ruth, dit Le Bourreau, fait route vers Red Rock, où il conduit sa prisonnière Daisy Domergue se faire pendre. Sur leur route, ils rencontrent le Major Marquis Warren, un ancien soldat lui aussi devenu chasseur de primes, et Chris Mannix, le nouveau shérif de Red Rock. Surpris par le blizzard, ils trouvent refuge dans une auberge au milieu des montagnes, où ils sont accueillis par quatre personnages énigmatiques : le confédéré, le mexicain, le cowboy et le court-sur-pattes.",
     avis: "Du pur Tarantino : dialogues, violence, musique."
   },
+  7450: {
+    titre: "Les pires",
+    image: "les_pires.jpg",
+    genre: "comédie dramatique",
+    annee: "2022",
+    realisateur: "Lise Akoka, Romane Gueret",
+    acteurs:
+      "Mallorie Wanecque, Timéo Mahaut, Johan Heldenbergh, Mélina Vanderplancke",
+    synopsis:
+      "Un tournage va avoir lieu cité Picasso, à Boulogne-Sur-Mer, dans le nord de la France. Lors du casting, quatre ados, Lily, Ryan, Maylis et Jessy sont choisis pour jouer dans le film. Dans le quartier, tout le monde s’étonne : pourquoi n’avoir pris que « les pires » ?",
+    avis: "De jeunes acteurs épatants."
+  },
   7500: {
     titre: "Les poings contre les murs",
     image: "les_poings_contre_les_murs.jpg",
