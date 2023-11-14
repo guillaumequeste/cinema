@@ -263,6 +263,17 @@ const films = {
       "Charlotte Salomon est une jeune peintre juive allemande, dont le destin bascule à la veille de la Seconde Guerre mondiale. Face au tourbillon de l’histoire et à la révélation d’un secret de famille, seul un acte extraordinaire pourra la sauver. Elle entame alors l’oeuvre de sa vie...",
     avis: "L'histoire vraie de Charlotte Salomon."
   },
+  1245: {
+    titre: "Chien de la casse",
+    image: "chien_de_la_casse.jpg",
+    genre: "comédie dramatique",
+    annee: "2023",
+    realisateur: "Jean-Baptiste Durand",
+    acteurs: "Raphaël Quenard, Anthony Bajon, Galatéa Bellugi, Bernard Blancan",
+    synopsis:
+      "Dog et Mirales sont amis d’enfance. Ils vivent dans un petit village du sud de la France et passent la majeure partie de leurs journées à traîner dans les rues. Pour tuer le temps, Mirales a pris l’habitude de taquiner Dog plus que de raison. Leur amitié va être mise à mal par l'arrivée au village d'une jeune fille, Elsa, avec qui Dog va vivre une histoire d'amour. Rongé par la jalousie, Mirales va devoir se défaire de son passé pour pouvoir grandir, et trouver sa place.",
+    avis: "Les deux acteurs principaux sont formidables."
+  },
   1250: {
     titre: "Comment voler un million de dollars",
     image: "comment_voler_un_million_de_dollars.jpg",

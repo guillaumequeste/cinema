@@ -109,6 +109,11 @@
     "image" : "charlotte.jpg"
 },
 {
+    "id": "1245",
+    "name": "Chien de la casse",
+    "image" : "chien_de_la_casse.jpg"
+},
+{
     "id": "1250",
     "name": "Comment voler un million de dollars",
     "image" : "comment_voler_un_million_de_dollars.jpg"
