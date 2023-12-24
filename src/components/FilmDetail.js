@@ -1814,6 +1814,17 @@ const films = {
       "Embarquez à bord du Faucon Millenium et partez à l’aventure en compagnie du plus célèbre vaurien de la galaxie. Au cours de périlleuses aventures dans les bas-fonds d’un monde criminel, Han Solo va faire la connaissance de son imposant futur copilote Chewbacca et croiser la route du charmant escroc Lando Calrissian… Ce voyage initiatique révèlera la personnalité d’un des héros les plus marquants de la saga Star Wars.",
     avis: "Un préquel basé sur Han Solo. Sympathique."
   },
+  9960: {
+    titre: "Spider-Man : Across the Spider-Verse",
+    image: "spiderman_across_the_spider_verse.jpg",
+    genre: "animation",
+    annee: "2023",
+    realisateur: "Joaquim Dos Santos, Kemp Powers, Justin Thompson",
+    acteurs: "Stéphane Bak, Shameik Moore, Shirine Boutella",
+    synopsis:
+      "Après avoir retrouvé Gwen Stacy, Spider-Man, le sympathique héros originaire de Brooklyn, est catapulté à travers le Multivers, où il rencontre une équipe de Spider-Héros chargée d'en protéger l'existence. Mais lorsque les héros s'opposent sur la façon de gérer une nouvelle menace, Miles se retrouve confronté à eux et doit redéfinir ce que signifie être un héros afin de sauver les personnes qu'il aime le plus.",
+    avis: "Le deuxième volet, visuellement incroyable."
+  },
   9970: {
     titre: "Spider-Man : New generation",
     image: "spiderman_new_generation.jpg",
