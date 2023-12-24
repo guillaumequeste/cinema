@@ -589,6 +589,16 @@
     "image" : "les_trois_freres.jpg"
 },
 {
+    "id": "7720",
+    "name": "Les Trois Mousquetaire : D'Artagnan",
+    "image" : "les_trois_mousquetaires_d_artagnan.jpg"
+},
+{
+    "id": "7740",
+    "name": "Les Trois Mousquetaire : Milady",
+    "image" : "les_trois_mousquetaires_milady.jpg"
+},
+{
     "id": "7800",
     "name": "M le Maudit",
     "image" : "m_le_maudit.jpg"
@@ -772,6 +782,11 @@
     "id": "9950",
     "name": "Solo : A Star Wars Story",
     "image" : "solo.jpg"
+},
+{
+    "id": "9970",
+    "name": "Spider-Man : New generation",
+    "image" : "spiderman_new_generation.jpg"
 },
 {
     "id": "10000",

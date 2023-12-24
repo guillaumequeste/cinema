@@ -1365,6 +1365,30 @@ const films = {
       "Le même jour, trois hommes découvrent qu'ils sont frères et héritent de 3 millions. Mais dix jours plus tard, l'héritage est détourné... et la galère commence pour trois frères qui n'ont que faire d'être frères.",
     avis: "Les dialogues de Michel Audiard. Un régal."
   },
+  7720: {
+    titre: "Les Trois Mousquetaires : D'Artagnan",
+    image: "les_trois_mousquetaires_d_artagnan.jpg",
+    genre: "aventure, historique",
+    annee: "2023",
+    realisateur: "Martin Bourboulon",
+    acteurs:
+      "François Civil, Eva Green, Vincent Cassel, Louis Garrel, Romain Duris, Pio Marmaï",
+    synopsis:
+      "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+    avis: "Une très bonne adaptation du roman d'Alexandre Dumas."
+  },
+  7740: {
+    titre: "Les Trois Mousquetaires : Milady",
+    image: "les_trois_mousquetaires_milady.jpg",
+    genre: "aventure, historique",
+    annee: "2023",
+    realisateur: "Martin Bourboulon",
+    acteurs:
+      "François Civil, Eva Green, Vincent Cassel, Louis Garrel, Romain Duris, Pio Marmaï",
+    synopsis:
+      "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+    avis: "Le deuxième volet de l'adaptation du roman d'Alexandre Dumas."
+  },
   7800: {
     titre: "M le Maudit",
     image: "m_le_maudit.jpg",
@@ -1789,6 +1813,17 @@ const films = {
     synopsis:
       "Embarquez à bord du Faucon Millenium et partez à l’aventure en compagnie du plus célèbre vaurien de la galaxie. Au cours de périlleuses aventures dans les bas-fonds d’un monde criminel, Han Solo va faire la connaissance de son imposant futur copilote Chewbacca et croiser la route du charmant escroc Lando Calrissian… Ce voyage initiatique révèlera la personnalité d’un des héros les plus marquants de la saga Star Wars.",
     avis: "Un préquel basé sur Han Solo. Sympathique."
+  },
+  9970: {
+    titre: "Spider-Man : New generation",
+    image: "spiderman_new_generation.jpg",
+    genre: "animation",
+    annee: "2018",
+    realisateur: "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    acteurs: "Stéphane Bak, Shameik Moore, Jake Johnoson",
+    synopsis:
+      "Spider-Man : New Generation suit les aventures de Miles Morales, un adolescent afro-américain et portoricain qui vit à Brooklyn et s’efforce de s’intégrer dans son nouveau collège à Manhattan. Mais la vie de Miles se complique quand il se fait mordre par une araignée radioactive et se découvre des super-pouvoirs : il est désormais capable d’empoisonner ses adversaires, de se camoufler, de coller littéralement aux murs et aux plafonds ; son ouïe est démultipliée...",
+    avis: "Visuellement incroyable."
   },
   10000: {
     titre: "Star Wars : Episode I - La Menace fantôme",
