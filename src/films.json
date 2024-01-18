@@ -119,6 +119,11 @@
     "image" : "comment_voler_un_million_de_dollars.jpg"
 },
 {
+    "id": "1280",
+    "name": "Cruella",
+    "image" : "cruella.jpg"
+},
+{
     "id": "1300",
     "name": "Dans la maison",
     "image" : "dans_la_maison.jpg"
@@ -247,6 +252,11 @@
     "id": "2900",
     "name": "Ils",
     "image" : "ils.jpg"
+},
+{
+    "id": "2950",
+    "name": "Iincendies",
+    "image" : "incendies.jpg"
 },
 {
     "id": "3000",

@@ -282,8 +282,19 @@ const films = {
     realisateur: "William Wyler",
     acteurs: "Audrey Hepburn, Peter O'Toole, Hugh Griffith, Eli Wallach",
     synopsis:
-      "ACharles Bonnet possède une impressionnante collection d'art, dont il vend parfois quelques pièces à d'autres amateurs. Seul problème, les œuvres sont en fait d'ingénieuses imitations. Par défi et orgueil, il accepte de prêter une somptueuse statuette à un musée : la Vénus de Cellini. Ce qu'il ignore, c'est que la fameuse statuette va faire l'objet d'une expertise. Sa fille, inquiète, décide de régler l'affaire à l'aide d'un séduisant inconnu, qu'elle prend pour un voleur mais qui est en réalité un détective privé.",
+      "Charles Bonnet possède une impressionnante collection d'art, dont il vend parfois quelques pièces à d'autres amateurs. Seul problème, les œuvres sont en fait d'ingénieuses imitations. Par défi et orgueil, il accepte de prêter une somptueuse statuette à un musée : la Vénus de Cellini. Ce qu'il ignore, c'est que la fameuse statuette va faire l'objet d'une expertise. Sa fille, inquiète, décide de régler l'affaire à l'aide d'un séduisant inconnu, qu'elle prend pour un voleur mais qui est en réalité un détective privé.",
     avis: "Une comédie policière dans le Paris des années 60."
+  },
+  1280: {
+    titre: "Cruella",
+    image: "cruella.jpg",
+    genre: "comédie, drame, famille",
+    annee: "2021",
+    realisateur: "Craig Gillepsie",
+    acteurs: "Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser",
+    synopsis:
+      "Londres, années 70, en plein mouvement punk rock. Escroc pleine de talent, Estella est résolue à se faire un nom dans le milieu de la mode. Elle se lie d’amitié avec deux jeunes vauriens qui apprécient ses compétences d’arnaqueuse et mène avec eux une existence criminelle dans les rues de Londres.",
+    avis: "Un personnage beaucoup plus complexe que celui de Disney et d'autant plus intéressant."
   },
   1300: {
     titre: "Dans la maison",
@@ -585,6 +596,17 @@ const films = {
     synopsis:
       "Lucas et Clémentine, un couple trentenaire expatrié en Roumanie, habite depuis peu de temps une maison isolée en banlieue de Bucarest. Elle, professeur de français, lui, romancier, vivent un bonheur paisible... Pourtant, un soir dans leur maison, tout va basculer. La pluie battante fait rage à l'extérieur. Le téléphone retentit, des voix lointaines au bout du fil, incompréhensibles. Le couple n'est en effet pas seul. Le cauchemar commence... 'Ils' sont là...",
     avis: "Tiré d'une histoire vraie."
+  },
+  2950: {
+    titre: "Incendies",
+    image: "incendies.jpg",
+    genre: "thriller",
+    annee: "2010",
+    realisateur: "Denis Villeneuve",
+    acteurs: "Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Rémy Girard",
+    synopsis:
+      "A la lecture du testament de leur mère, Jeanne et Simon Marwan se voient remettre deux enveloppes : l’une destinée à un père qu’ils croyaient mort et l‘autre à un frère dont ils ignoraient l’existence. Jeanne voit dans cet énigmatique legs la clé du silence de sa mère, enfermée dans un mutisme inexpliqué les dernières semaines précédant sa mort. Elle décide immédiatement de partir au Moyen Orient exhumer le passé de cette famille dont elle ne sait presque rien…",
+    avis: "Difficile."
   },
   3000: {
     titre: "Irréversible",
