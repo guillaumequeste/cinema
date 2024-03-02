@@ -86,7 +86,20 @@ const films = {
     synopsis:
       "A Mexico, un tragique accident de la route va mettre en relation les trois protagonistes de cette histoire bien mouvementée : Octavio, le jeune sans foi ni loi, Valéria, mannequin célèbre, et El Chivo, vieux révolutionnaire clochardisé, tous trois punis par la fatalité.",
     avis:
-      "Le premier film de 'la trilogie de la mort' d'Alejandro Gonzalez Inarritu"
+      "Le premier film de 'la trilogie de la mort' d'Alejandro Gonzalez Inarritu."
+  },
+  365: {
+    titre: "Anatomie d'une chute",
+    image: "anatomie_d_une_chute.jpg",
+    genre: "policier, drame, judiciaire, thriller",
+    annee: "2023",
+    realisateur: "Justine Triet",
+    acteurs:
+      "Emilio Echevarria, Gael Garcia Bernal, Goya Toledo, Alvaro Guerrero",
+    synopsis:
+      "Sandra, Samuel et leur fils malvoyant de 11 ans, Daniel, vivent depuis un an loin de tout, à la montagne. Un jour, Samuel est retrouvé mort au pied de leur maison. Une enquête pour mort suspecte est ouverte. Sandra est bientôt inculpée malgré le doute : suicide ou homicide ? Un an plus tard, Daniel assiste au procès de sa mère, véritable dissection du couple.",
+    avis:
+      "Le procès d'un meurtre ?"
   },
   400: {
     titre: "Astérix et Obélix : Mission Cléopâtre",
@@ -2157,6 +2170,17 @@ const films = {
     synopsis:
       "Joanna et Mark Wallace se sont rencontrés dans le Sud de la France douze ans auparavant. En couple, puis mariés, ils se disputent énormément, à tel point qu’ils pensent au divorce. Ils partent en voyage sur la Côte d’Azur, le moment pour eux de se remémorer leurs précédents voyages, leurs bons et mauvais moments dans un kaléidoscope de leurs années de jeunesse. Leurs chemins peuvent-ils se séparer ?",
     avis: "Un road-movie sentimental avec la musique d'Henry Mancini."
+  },
+  11690: {
+    titre: "Yannick",
+    image: "yannick.jpg",
+    genre: "comédie",
+    annee: "2023",
+    realisateur: "Quentin Dupieux",
+    acteurs: "Raphaël Quenard, Pio Marmaï, Blanche Gardin, Sébastien Chassagne",
+    synopsis:
+      "En pleine représentation de la pièce « Le Cocu », un très mauvais boulevard, Yannick se lève et interrompt le spectacle pour reprendre la soirée en main...",
+    avis: "Raphaël Quenard est incroyable."
   },
   11700: {
     titre: "Ожидая (En attendant)",

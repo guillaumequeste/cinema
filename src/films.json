@@ -34,6 +34,11 @@
     "image" : "amours_chiennes.jpg"
 },
 {
+    "id": "365",
+    "name": "Anatomie d'une chute",
+    "image" : "anatomie_d_une_chute.jpg"
+},
+{
     "id": "400",
     "name": "Astérix et Obélix : Mission Cléopâtre",
     "image" : "asterix.jpg"
@@ -932,6 +937,11 @@
     "id": "11650",
     "name": "Voyage à deux",
     "image" : "voyage_a_deux.jpg"
+},
+{
+    "id": "11690",
+    "name": "Yannick",
+    "image" : "yannick.jpg"
 },
 {
     "id": "11700",
